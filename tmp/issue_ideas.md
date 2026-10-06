@@ -4,11 +4,12 @@
   - managing passwords / secure passwords
   - baiting
 - multifactor authentication / 2FA / Duo
-- university-owned computers
+- university-owned devices
   - guidelines, how to use, installed software
   - antivirus (faculty) / malware
   - hardware(?)/software updates (faculty)
   - physical security of university devices
+  - network printers
 - personal devices
   - on NCSU wifi
     - data breaches
@@ -16,12 +17,10 @@
     - data breaches
   - physical security of personal devices
   - hardware/software updates
-- printers / WolfPrint
 - software licenses
   - Adobe CC, MS Office
 - social media
 - Google Drive / cloud security
-- Moodle/WolfWare?
 - artificial intelligence / large language models
 - secure data management / sharing potentially sensitive data
 
