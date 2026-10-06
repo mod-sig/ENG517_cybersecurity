@@ -1,10 +1,17 @@
-- phishing
+- university email (gmail)
+  - phishing
+  - managing passwords
 - multifactor authentication / 2FA / Duo
-- university-owned computers?
+- university-owned computers
+  - guidelines, how to use, installed software
 - personal devices
   - on NCSU wifi
-- network printers / printers?
+  - physical security of personal devices
+- printers / WolfPrint
 - antivirus software?
 - software licenses
   - Adobe CC, MS Office
 - social media
+- Google Drive
+- Moodle/WolfWare?
+- artificial intelligence / large language models
