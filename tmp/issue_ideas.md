@@ -1,17 +1,34 @@
 - university email (gmail)
   - phishing
-  - managing passwords
+  - spam
+  - managing passwords / secure passwords
+  - baiting
 - multifactor authentication / 2FA / Duo
 - university-owned computers
   - guidelines, how to use, installed software
+  - antivirus (faculty) / malware
+  - hardware(?)/software updates (faculty)
+  - physical security of university devices
 - personal devices
   - on NCSU wifi
+    - data breaches
+  - VPNs
+    - data breaches
   - physical security of personal devices
+  - hardware/software updates
 - printers / WolfPrint
-- antivirus software?
 - software licenses
   - Adobe CC, MS Office
 - social media
-- Google Drive
+- Google Drive / cloud security
 - Moodle/WolfWare?
 - artificial intelligence / large language models
+- secure data management / sharing potentially sensitive data
+
+# tasks for multiple issues
+
+- account recovery
+- malware
+- create secure passwords
+- software/hardware updates
+- physical security of devices
