@@ -1,0 +1,10 @@
+- phishing
+- multifactor authentication / 2FA / Duo
+- university-owned computers?
+- personal devices
+  - on NCSU wifi
+- network printers / printers?
+- antivirus software?
+- software licenses
+  - Adobe CC, MS Office
+- social media
