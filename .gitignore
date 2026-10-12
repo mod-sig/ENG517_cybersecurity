@@ -1,0 +1,11 @@
+# Apple/macOS artifacts
+## general
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[]
+
+## resource forks
+._*
