@@ -5,6 +5,8 @@
 
 # spellings
 
+anti-malware
+Anti-Malware (when capitalized)
 multifactor authentication
 
 # abbreviations
