@@ -2,31 +2,57 @@
 
 Each issue should have at least one concept topic.
 
-- university email (gmail)
-  - phishing
-  - spam
-  - managing passwords / secure passwords
-  - baiting
-- multifactor authentication / 2FA / Duo
-- university-owned devices
-  - guidelines, how to use, installed software
-  - antivirus (faculty) / malware
-  - hardware(?)/software updates (faculty)
-  - physical security of university devices
-  - network printers
-- personal devices
-  - on NCSU wifi
-    - data breaches
-  - VPNs
-    - data breaches
-  - physical security of personal devices
-  - hardware/software updates
-- software licenses
-  - Adobe CC, MS Office
-- social media
-- Google Drive / cloud security
-- artificial intelligence / large language models
-- secure data management / sharing potentially sensitive data
+## Artificial Intelligence (AI) and Large Language Models (LLMs)
+
+ID: **AILLM**
+
+## Data Sharing
+
+ID: **SHARE**
+
+## Multifactor Authentication (MFA)
+
+ID: **MFA**
+
+## Passwords
+
+ID: **PASSWD**
+
+## Phishing
+
+ID: **PHISH**
+
+_Note_: We could also call this issue Social Engineering, which is the broader term for these kinds of attacks.
+
+## Physical Device Security
+
+ID: **PHYDEVSEC**
+
+_Note_: Includes concepts related to physical space, like not leaving your laptop unattended.
+
+## Social Media
+
+ID: **SOCMEDIA**
+
+## Software Security
+
+ID: **SOFTWARE**
+
+_Note_: Includes concepts like malware, firewalls, and program / operating system updates.
+
+## Unity ID
+
+ID: **UNITY**
+
+## Virtual Private Networks (VPNs)
+
+ID: **VPN**
+
+## Wi-Fi Connections
+
+ID: **WIFI**
+
+Note: Things like (a) connecting to eduroam or the NSCU network or (b) WPA authentication.
 
 # concepts
 
