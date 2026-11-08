@@ -54,6 +54,12 @@ ID: **WIFI**
 
 Note: Things like (a) connecting to eduroam or the NSCU network or (b) WPA authentication.
 
+## Cloud Security
+
+ID: **CLOUD**
+
+Note: *Faith added this cybersecurity issue*
+
 # concepts
 
 Concept topics answer the question "what is...?"
