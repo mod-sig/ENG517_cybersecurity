@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="MFA_T_how-to-enroll-duo">
+  <title>How to Enroll in DUO Multifactor Authentication</title>
+
+  <shortdesc>Enrolling in DUO MFA at NC State adds an extra layer of
+  protection for your NC State unity ID.</shortdesc>
+
+  <taskbody>
+    <prereq>You must have at least one device (mobile phone, tablet or
+    security key) to begin.</prereq>
+
+    <steps>
+      <step>
+        <cmd>Go to the <xref format="html"
+        href="https://uw1.devicemanagement.duosecurity.com/frame/device-management/portal"
+        scope="external">Duo Enrollment and Device Management</xref>
+        page</cmd>
+      </step>
+
+      <step>
+        <cmd>Log in with your NC State Unity ID and password.</cmd>
+      </step>
+
+      <step>
+        <cmd>Follow the on-screen instructions to complete the enrollment
+        process.</cmd>
+      </step>
+
+      <step>
+        <cmd>NC State encourages use of the Duo mobile app as your primary
+        authentication method for consistent reliability.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
