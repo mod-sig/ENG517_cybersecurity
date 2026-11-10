@@ -2,7 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossentry.dtd">
 <glossentry id="cybersecurity-incident">
     <glossterm>cybersecurity incident</glossterm>
-    <glossdef><p>A cybersecurity incident may include any of the following:
+    <glossdef>
+        <p>A cybersecurity incident may include any of the following:
             <ul>
                 <li>Unauthorized disclosure or alteration of private data (e.g.,
                     employee evaluations, social security numbers, certain
@@ -16,5 +17,6 @@
                     or computer on the NC State network</li>
                 <li>Criminal activity conducted via computers</li>
             </ul>
+        </p>
         </glossdef>
 </glossentry>
