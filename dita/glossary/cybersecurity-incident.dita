@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossentry.dtd">
+<glossentry id="cybersecurity-incident">
+    <glossterm>cybersecurity incident</glossterm>
+    <glossdef><p>A cybersecurity incident may include any of the following:
+            <ul>
+                <li>Unauthorized disclosure or alteration of private data (e.g.,
+                    employee evaluations, social security numbers, certain
+                    research data</li>
+                <li>Loss or theft of computers or media that contains private
+                    data</li>
+                <li>Inappropriate content on an NC State web page, such as
+                    advertising for a noneducational commercial product or
+                    pornographic material</li>
+                <li>Distribution of viruses or malicious software from a device
+                    or computer on the NC State network</li>
+                <li>Criminal activity conducted via computers</li>
+            </ul>
+        </glossdef>
+</glossentry>

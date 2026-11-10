@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="REUSE_T_reporting_a_cybersecurity_incident" xml:lang="en-us">
+    <title>Reporting a Cybersecurity Incident</title>
+    <shortdesc>Reporting a cybersecurity incident to the NC State Help Desk is
+        quick and easy.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Anyone in the campus community can report a <term keyref="cybersecurity-incident"/>.
+                <note>Report criminal activity (such as theft) to the Campus Police Department
+                    by calling (919) 515-3000. Contact NC State's Security and
+                    Compliance Cybersecurity Operations team for assistance with
+                    connecting to external law enforcement agencies (such as the
+                    FBI).</note></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Gather the following information:</cmd>
+                <info>
+                    <ul>
+                        <li>General description of the incident</li>
+                        <li>Date and time of the incident</li>
+                        <li>Your name</li>
+                        <li>Your email address</li>
+                        <li>Your phone number</li>
+                        <li>Your department, if applicable</li>
+                        <li>Specific computer information, if available:
+                            <ul>
+                                <li>Computer name</li>
+                                <li>Computer IP address</li>
+                                <li>Computer logs</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Send an email with the gathered information to the NC State
+                    Help Desk at help@ncsu.edu or call the help desk at
+                    (919) 515-4357.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

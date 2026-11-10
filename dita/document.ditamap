@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Cybersecurity at NC State</title>
+ <topicmeta>
+     <author>Faith Jezioranski-Davis</author>
+     <author>Josephine Roy</author>
+     <author>Alice White</author>
+ </topicmeta>
+
+ <topicref href="index.dita"/>
+ <topicref href="MFA_T_how-to-enroll-duo.dita"/>
+ <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita"/>
+ <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
+</map>
