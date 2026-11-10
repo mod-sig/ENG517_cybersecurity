@@ -6,6 +6,12 @@ Each issue should have at least one concept topic.
 
 ID: **AILLM**
 
+## Cloud Security
+
+ID: **CLOUD**
+
+Note: *Faith added this cybersecurity issue*
+
 ## Data Sharing
 
 ID: **SHARE**
@@ -18,17 +24,17 @@ ID: **MFA**
 
 ID: **PASSWD**
 
-## Phishing
-
-ID: **PHISH**
-
-_Note_: We could also call this issue Social Engineering, which is the broader term for these kinds of attacks.
-
 ## Physical Device Security
 
 ID: **PHYDEVSEC**
 
 _Note_: Includes concepts related to physical space, like not leaving your laptop unattended.
+
+## Social Engineering
+
+ID: **SOCENG**
+
+_Note_: Encompasses phishing and other kinds of attacks.
 
 ## Social Media
 
@@ -53,12 +59,6 @@ ID: **VPN**
 ID: **WIFI**
 
 Note: Things like (a) connecting to eduroam or the NSCU network or (b) WPA authentication.
-
-## Cloud Security
-
-ID: **CLOUD**
-
-Note: *Faith added this cybersecurity issue*
 
 # concepts
 
