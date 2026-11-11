@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="MFA_T_using-duo-multifactor-authentication">
+  <title>Using Duo Multifactor Authentication</title>
+
+  <shortdesc>Using Duo multifactor authentication (MFA) at NC State. Duo
+  ensures that all individuals affiliated with the university are protected
+  from unauthorized access to an NC State unity account.</shortdesc>
+
+  <taskbody>
+    <prereq>You must have Duo downloaded onto a personal device before using
+    Duo.</prereq>
+
+    <context>NC State uses Duo as its MFA system that works to authenticate
+    Unity ID logins. You can authenticate through Duo using Duo Push, using a
+    passcode in the Mobile App, using a Security Key, or using a one time Duo
+    bypass code.</context>
+
+    <steps>
+      <stepsection>Using Duo Push</stepsection>
+
+      <step>
+        <cmd>Log in with your NC State Unity ID and password.</cmd>
+      </step>
+
+      <step>
+        <cmd>In the Second Password field, type 'push'.</cmd>
+
+        <stepresult>Select "OK".</stepresult>
+
+        <note>You will receive a notification from the Duo app asking if you
+        are attempting to sign in.</note>
+      </step>
+
+      <step>
+        <cmd>Once the Duo pop-up appears, select "Approve".</cmd>
+      </step>
+
+      <stepsection>Using a Passcode from the Duo Mobile App</stepsection>
+
+      <step>
+        <cmd>Log in with your NC State Unity ID and password.</cmd>
+      </step>
+
+      <step>
+        <cmd>Open the Duo Mobile app.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select the section labeled Duo Protected - NC State
+        University.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter the 6-digit code that appears on your phone into the Second
+        Password field of the VPN client.</cmd>
+
+        <stepresult>Select "OK".</stepresult>
+      </step>
+
+      <stepsection>Using a Passcode from the Duo One-Time Passcode Tool
+      (Security Key Owners)</stepsection>
+
+      <step>
+        <note>If you only have a Security Key enrolled for your Duo Login you
+        can use this tool to generate a code to use in the VPN Client.</note>
+
+        <cmd>Go to the <xref format="html"
+        href="https://shib.ncsu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2"
+        scope="external">go.ncsu.edu/dc</xref> and sign in with your Unity ID
+        and password</cmd>
+      </step>
+
+      <step>
+        <cmd>Use your Security Key/U2F Token.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select the Generate New Passcode button.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter the 9-digit code that appears in the Second Password field
+        of the VPN client.</cmd>
+
+        <stepresult>Select "OK".</stepresult>
+      </step>
+
+      <stepsection>Using a Duo Bypass Code</stepsection>
+
+      <step>
+        <cmd>Call 919-515-4357 and ask for a bypass code (available 24/7) or
+        visit our Walk-in Center.</cmd>
+      </step>
+
+      <step>
+        <cmd>Once verified, we'll provide you with a 9-digit code.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter that 9-digit code in the Second Password field of the VPN
+        client.</cmd>
+
+        <stepresult>Select "OK".</stepresult>
+      </step>
+    </steps>
+  </taskbody>
+</task>
