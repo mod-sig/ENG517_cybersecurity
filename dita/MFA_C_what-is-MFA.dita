@@ -2,9 +2,26 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
 "concept.dtd">
 <concept id="MFA_C_what-is-MFA">
-  <title/>
+  <title>What is MFA?</title>
+
+  <shortdesc>Describes multifactor authentication (MFA) and its
+  uses.</shortdesc>
 
   <conbody>
-    <p/>
+    <p>Multifactor authentication (MFA) is a login security method that
+    requires two or more forms of identity verification to access an account.
+    One "factor" is usually your password, and then you can often choose the
+    other factor.</p>
+
+    <p>You may also hear MFA called:</p>
+
+    <ul>
+      <li>Two-factor authentication (2FA)</li>
+
+      <li>Two-step verification</li>
+    </ul>
+
+    <p>They all refer to the same idea: protect yourself with more than just a
+    password.</p>
   </conbody>
 </concept>
