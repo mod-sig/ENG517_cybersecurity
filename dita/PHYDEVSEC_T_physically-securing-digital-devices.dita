@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="PHYDEVSEC_T_physically-securing-digital-devices">
+  <title>Physically Securing Digital Devices</title>
+
+  <shortdesc>Physically securing devices to prevent cyber criminals from
+  downloading malware onto the device, gaining unauthorized access, or
+  stealing the device.</shortdesc>
+
+  <taskbody>
+    <context>Without physical safeguards in place to protect your device(s),
+    you are more vulnerable to cyber intrusions that occur because of a
+    physical security compromise. This could lead to direct installation of
+    malware or spyware, loss or theft of devices and data, or unauthorized
+    access of your data. Follow these steps to protect your devices:</context>
+
+    <steps-unordered>
+      <step>
+        <cmd>Ensure there are physical security controls in the areas where
+        you store your devices.</cmd>
+      </step>
+
+      <step>
+        <cmd>Keep important documents in a secure location.</cmd>
+      </step>
+
+      <step>
+        <cmd>Lock your device if you have to step away from the screen.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not leave your devices unattended.</cmd>
+      </step>
+
+      <step>
+        <cmd>Have a plan for data loss or theft.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not throw away or sell your old device.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not insert unknown media storage devices (e.g., thumb drives)
+        into your computer.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not charge your device in a public USB port without a data
+        blocker.</cmd>
+      </step>
+    </steps-unordered>
+  </taskbody>
+</task>

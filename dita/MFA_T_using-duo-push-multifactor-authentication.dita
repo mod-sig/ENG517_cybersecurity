@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="MFA_T_using-duo-push-multifactor-authentication">
+  <title>Using Duo Push Multifactor Authentication</title>
+
+  <shortdesc>Using Duo multifactor authentication (MFA) at NC State. Duo
+  ensures that all individuals affiliated with the university are protected
+  from unauthorized access to an NC State unity account.</shortdesc>
+
+  <taskbody>
+    <prereq>You must have Duo downloaded onto a personal device before using
+    Duo.</prereq>
+
+    <context>NC State uses Duo as its MFA system that works to authenticate
+    Unity ID logins. You can authenticate through Duo using Duo Push on a
+    mobile device.</context>
+
+    <steps>
+      <step>
+        <cmd>Enter your Unity ID and password.</cmd>
+      </step>
+
+      <step>
+        <cmd>In the Second Password field, select
+        <uicontrol>Push</uicontrol>.</cmd>
+
+        <stepresult>Select <uicontrol>OK</uicontrol>. <note>You will receive a
+        notification from the Duo app asking if you are attempting to sign
+        in.</note></stepresult>
+      </step>
+
+      <step>
+        <cmd>Select <uicontrol>Approve</uicontrol>.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
