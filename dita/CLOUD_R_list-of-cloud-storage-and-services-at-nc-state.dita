@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state">
+  <title>List of Cloud Storage and Services at NC State</title>
+
+  <shortdesc>Examples of cloud storage and services available at NC
+  State.</shortdesc>
+
+  <refbody>
+    <section><p>NC State's OIT hosts a Cloud Services support team who are
+    available to help you plan for and assess cloud resources to support your
+    research. NC State has adopted a hybrid cloud strategy that also relies on
+    local data center resources. Current preferred cloud service providers for
+    whom terms and conditions have already been reviewed and agreements with
+    NC State reached include: <ul>
+        <li>Amazon Web Services (AWS)</li>
+
+        <li>Google Cloud Platform (GCP)</li>
+
+        <li>Microsoft Azure</li>
+      </ul> </p></section>
+  </refbody>
+</reference>

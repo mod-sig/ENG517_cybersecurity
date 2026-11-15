@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="VPN_T_connecting-to-the-nc-state-virtual-private-network">
+  <title>Connecting to the NCSU Virtual Private Network</title>
+
+  <shortdesc>Connecting securely to NCSU's Virtual Private Network
+  (VPN).</shortdesc>
+
+  <taskbody>
+    <steps-informal><p/></steps-informal>
+  </taskbody>
+</task>
