@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="PASSWD_C_what_is_a_passphrase">
+  <title>What Is a Passphrase?</title>
+
+  <shortdesc>A passphrase is a series of words used to protect an account. A
+  long, unique passphrase can be easier to remember and harder to guess than a
+  short password.</shortdesc>
+
+  <conbody>
+    <section><title>Understand passphrases</title> <p>A passphrase is a
+    password made up of a sequence of words. Its length helps make it
+    difficult for cybercriminals to guess or crack, while the words can make
+    it easier for you to remember.</p> <p>NC State recommends using
+    passphrases instead of relying only on short passwords with a mix of
+    uppercase and lowercase letters, numbers, and symbols. A passphrase should
+    be long and difficult for someone else to guess.</p></section>
+
+    <section><title>Use a different passphrase for every account</title>
+    <p>Create a unique passphrase for each account. Do not reuse the same
+    passphrase, or a slightly changed version of it, across your NC State and
+    personal accounts.</p> <p>If a cybercriminal obtains a passphrase used for
+    one account, reusing it could put other accounts at risk. Those accounts
+    may contain personal information, university information, financial
+    records, or other sensitive data.</p></section>
+
+    <section><title>Manage passphrases securely</title> <p>Remembering a
+    different passphrase for every account can be difficult. A password
+    manager can securely store login credentials and may generate strong
+    passwords for you. You generally need to remember only the password that
+    protects the password manager.</p> <p>NC State's source article identifies
+    LastPass Enterprise as available to NC State employees. Availability for
+    students, visitors, or other account holders is not established by that
+    article. Check current NC State licensing and guidance before choosing an
+    institution-provided password manager.</p></section>
+
+    <section><title>Add another layer of account protection</title> <p>Use
+    two-factor authentication (2FA) when an account offers it. NC State uses
+    Duo Security for 2FA on applicable university accounts. Two-factor
+    authentication adds a verification step beyond your
+    passphrase.</p></section>
+
+    <section><title>Follow NC State password guidance</title> <p>For
+    requirements that apply to NC State accounts, consult the <xref
+    href="https://ncsu.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0017867">NC
+    State Password Guidelines</xref> and the <xref
+    href="https://oit.ncsu.edu/it-security/password-standard">Password
+    Standard</xref>.</p> <p>If you need assistance, contact the <xref
+    href="https://help.ncsu.edu/">NC State IT Service Portal</xref> or call
+    919-515-4357 (HELP).</p> <note type="important">Do not use a passphrase
+    example published in an article or training material as your own
+    passphrase. Create a new, unique passphrase that is not publicly
+    known.</note></section>
+  </conbody>
+</concept>
