@@ -17,7 +17,7 @@
                         <li>Your name</li>
                         <li>Your email address</li>
                         <li>Your phone number</li>
-                        <li>Your department, if applicable</li>
+                        <li audience="staff students">Your department, if applicable</li>
                         <li>Specific computer information, if available:
                             <ul>
                                 <li>Computer name</li>
@@ -29,16 +29,18 @@
                 </info>
             </step>
             <step>
-                <cmd>Send an email with the gathered information to the NC State
-                    Help Desk at help@ncsu.edu or call the help desk at
-                    (919) 515-4357.</cmd>
+                <cmd>Email or call the NC State Help Desk with the gathered information.</cmd>
                 <info>
-                    <note>Report criminal activity (such as theft) to the Campus
+                    <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
+                </info>
+            </step>
+            <step importance="optional">
+                <cmd>Report criminal activity (such as theft) to the Campus
                     Police Department by calling (919) 515-3000. Contact NC
                     State's Security and Compliance Cybersecurity Operations
                     team for assistance with connecting to external law
-                    enforcement agencies (such as the FBI).</note>
-                </info>
+                    enforcement agencies (such as the FBI).
+                </cmd>
             </step>
         </steps>
     </taskbody>

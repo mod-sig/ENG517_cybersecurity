@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reusable-conref-elements">
+    <title>Reusable Text Strings</title>
+    <conbody>
+        <!-- For standalone sentences -->
+        <note id="help-desk-contact-info">NC State Help Desk Contact Info
+            <ul>
+                <li>email: help@ncsu.edu</li>
+                <li>phone: (919) 515-4357</li>
+            </ul>
+        </note>
+        
+        <!-- For inline/phrase-level sentences -->
+        <p>
+            <ph id="warning-sentence">This action cannot be undone.</ph>
+        </p>
+    </conbody>
+</concept>
