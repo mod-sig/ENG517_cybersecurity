@@ -11,5 +11,7 @@
  <topicref href="index.dita"/>
  <topicref href="MFA_T_how-to-enroll-duo.dita"/>
  <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita"/>
+ <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
  <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
+ <topicref href="conrefs.dita" processing-role="resource-only"/>
 </map>
