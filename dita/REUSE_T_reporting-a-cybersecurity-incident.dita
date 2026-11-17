@@ -2,8 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="REUSE_T_reporting_a_cybersecurity_incident" xml:lang="en-us">
     <title>Reporting a Cybersecurity Incident</title>
-    <shortdesc>Reporting a cybersecurity incident to the NC State Help Desk is
-        quick and easy.</shortdesc>
+    <shortdesc>Report cybersecurity incidents to the NC State Help Desk.</shortdesc>
     <taskbody>
         <context>
             <p>Anyone in the campus community can report a <term keyref="cybersecurity-incident"/>.</p>

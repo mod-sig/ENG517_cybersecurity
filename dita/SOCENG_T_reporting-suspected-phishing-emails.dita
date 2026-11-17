@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="SOCENG_T_reporting-suspected-phishing-emails.dita" xml:lang="en-us">
+    <title>Reporting Suspected Phishing Emails</title>
+    <shortdesc>Report suspected phishing emails instead of replying to or forwarding them.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you receive a suspicious email, report it inside Gmail and contact IT support. Do not reply
+            to or forward the email.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On a computer, open the suspicious email</cmd>
+                <info><note type="warning">Do not reply to the email or click any links inside the email.</note></info>
+            </step>
+            <step>
+                <cmd>Click the <menucascade><uicontrol>More</uicontrol></menucascade></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
