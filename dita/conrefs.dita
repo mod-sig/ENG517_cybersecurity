@@ -6,8 +6,9 @@
         <!-- For standalone sentences -->
         <note id="help-desk-contact-info">NC State Help Desk Contact Info
             <ul>
-                <li>email: help@ncsu.edu</li>
+                <li>email: <xref href="mailto:help@ncsu.edu" format="html" scope="external">help@ncsu.edu</xref></li>
                 <li>phone: (919) 515-4357</li>
+                <li>website: <xref href="https://ncsu.service-now.com/sp" format="html" scope="external">Campus IT Service Portal</xref></li>
             </ul>
         </note>
         
