@@ -3,6 +3,11 @@
 <task id="REUSE_T_reporting_a_cybersecurity_incident" xml:lang="en-us">
     <title>Reporting a Cybersecurity Incident</title>
     <shortdesc>Report cybersecurity incidents to the NC State Help Desk.</shortdesc>
+    <prolog>
+        <author>Alice White</author>
+        <source href="https://cybersecurity.ncsu.edu/report-an-incident/" scope="external"/>
+        <critdates><created date="2026-11-10"/></critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>Anyone in the campus community can report a <term keyref="cybersecurity-incident"/>.</p>
@@ -35,11 +40,8 @@
                 </info>
             </step>
             <step importance="optional">
-                <cmd>Report criminal activity (such as theft) to the Campus
-                    Police Department by calling (919) 515-3000. Contact NC
-                    State's Security and Compliance Cybersecurity Operations
-                    team for assistance with connecting to external law
-                    enforcement agencies (such as the FBI).
+                <cmd>
+                    Report criminal activity (such as theft) to the Campus Police Department by calling (919) 515-3000. Contact <xref href="https://oit.ncsu.edu/leadership-and-units/security-and-compliance/" format="html" scope="external">NC State's Security and Compliance Cybersecurity Operations team</xref> for assistance with connecting to external law enforcement agencies (such as the FBI).
                 </cmd>
             </step>
         </steps>

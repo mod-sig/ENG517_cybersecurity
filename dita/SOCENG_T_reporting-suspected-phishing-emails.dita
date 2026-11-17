@@ -3,18 +3,35 @@
 <task id="SOCENG_T_reporting-suspected-phishing-emails.dita" xml:lang="en-us">
     <title>Reporting Suspected Phishing Emails</title>
     <shortdesc>Report suspected phishing emails instead of replying to or forwarding them.</shortdesc>
+    <prolog>
+        <author>Alice White</author>
+        <source href="https://cybersecurity.ncsu.edu/report-phishing/" scope="external"/>
+        <critdates><created date="2026-11-16"/></critdates>
+    </prolog>
     <taskbody>
         <context>
-            <p>If you receive a suspicious email, report it inside Gmail and contact IT support. Do not reply
-            to or forward the email.</p>
+            <p>If you receive a suspicious email, report it within Gmail and contact IT support.</p>
+            <note type="warning">Do not reply to or forward the email.</note>
         </context>
         <steps>
+            <stepsection>Report the Email within Gmail</stepsection>
             <step>
-                <cmd>On a computer, open the suspicious email</cmd>
-                <info><note type="warning">Do not reply to the email or click any links inside the email.</note></info>
+                <cmd>On a computer, open the suspicious email.</cmd>
+                <info><note type="warning">Do not click any links inside the email or attempt to download any attachments from the email.</note></info>
             </step>
             <step>
-                <cmd>Click the <menucascade><uicontrol>More</uicontrol></menucascade></cmd>
+                <cmd>Click the <menucascade><uicontrol>More</uicontrol></menucascade> or <menucascade><uicontrol>⋮</uicontrol></menucascade> option in the top-right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Select <menucascade><uicontrol>Report phishing</uicontrol></menucascade>.</cmd>
+            </step>
+            <stepsection>Contact Local IT Support</stepsection>
+            <step>
+                <cmd>Contact your local IT support or the NC State Help Desk.</cmd>
+                <!-- Local IT Support needs to be a reference topic-->
+                <info>
+                    <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
+                </info>
             </step>
         </steps>
     </taskbody>
