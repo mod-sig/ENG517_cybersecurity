@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="SOFTWARE_C_what-is-a-firewall">
+  <title>What is a Firewall?</title>
+
+  <shortdesc>Describes different forms of hardware and software firewalls.
+  Firewalls restrict outside access to computer and laptop devices, protecting
+  them from cyber attacks.</shortdesc>
+
+  <conbody>
+    <p>When your computer is accessible through an internet connection or
+    Wi-Fi network, it is susceptible to attack. However, you can restrict
+    outside access to your computer—and the information on it—with a
+    firewall.</p>
+
+    <p>Firewalls provide protection against outside cyber attackers by
+    shielding your computer or network from malicious or unnecessary network
+    traffic. Firewalls can also prevent malicious software from accessing a
+    computer or network via the internet. Firewalls can be configured to block
+    data from certain locations (i.e., computer network addresses),
+    applications, or ports while allowing relevant and necessary data
+    through.</p>
+
+    <p>Categories of firewalls include hardware and software. While both have
+    advantages and disadvantages, the decision to use a firewall is more
+    important than deciding which type you use.</p>
+
+    <section>
+      <title>Hardware</title>
+
+      <p>Typically called network firewalls, these physical devices are
+      positioned between your computer and the internet (or other network
+      connection). Many vendors and some internet service providers (ISPs)
+      offer integrated small office / home office routers that also include
+      firewall features. Hardware-based firewalls are particularly useful for
+      protecting multiple computers and controlling the network activity that
+      attempts to pass through them. The advantage of hardware-based firewalls
+      is that they provide an additional line of defense against attacks
+      reaching desktop computing systems. The disadvantage is that they are
+      separate devices that require trained professionals to support their
+      configuration and maintenance.</p>
+    </section>
+
+    <section>
+      <title>Software</title>
+
+      <p>Most operating systems (OSs) include a built-in firewall feature that
+      you should enable for added protection, even if you have an external
+      firewall. Firewall software is also available separately from your local
+      computer store, software vendor, or ISP. If you download firewall
+      software from the internet, make sure it is from a reputable source
+      (i.e., an established software vendor or service provider) and offered
+      via a secure site. The advantage of software firewalls is their ability
+      to control the specific network behavior of individual applications on a
+      system. A significant disadvantage of a software firewall is that it is
+      typically located on the same system that is being protected. Being
+      located on the same system can hinder the firewall's ability to detect
+      and stop malicious activity. Another possible disadvantage of software
+      firewalls is that—if you have a firewall for each computer on a
+      network—you will need to update and manage each computer's firewall
+      individually.</p>
+    </section>
+
+    <note type="notice">Firewalls do not guarantee that your computer will not
+    be attacked. Firewalls primarily help protect against malicious traffic,
+    not against malicious programs (i.e., malware), and may not protect you if
+    you accidentally install or run malware on your computer.</note>
+  </conbody>
+</concept>
