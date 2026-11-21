@@ -27,7 +27,7 @@
             </step>
             <stepsection>Contact Local IT Support</stepsection>
             <step>
-                <cmd>Contact <xref href="REUSE_R_list-of-local-it-support-teams.dita" source="internal">your local IT support</xref> or the NC State Help Desk.</cmd>
+                <cmd>Contact <xref href="REUSE_R_list-of-local-it-support-teams.dita" scope="local">your local IT support</xref> or the NC State Help Desk.</cmd>
                 <info>
                     <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
                 </info>
