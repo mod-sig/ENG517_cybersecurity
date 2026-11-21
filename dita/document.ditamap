@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Cybersecurity at NC State</title>
- <topicmeta>
-     <author>Faith Jezioranski-Davis</author>
-     <author>Josephine Roy</author>
-     <author>Alice White</author>
- </topicmeta>
+    <title>Cybersecurity at NC State</title>
+    <topicmeta>
+        <author>Faith Jezioranski-Davis</author>
+        <author>Josephine Roy</author>
+        <author>Alice White</author>
+     </topicmeta>
 
- <topicref href="index.dita"/>
- <topicref href="MFA_T_how-to-enroll-duo.dita"/>
- <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita"/>
- <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
- <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
- <topicref href="conrefs.dita" processing-role="resource-only"/>
+    <topicref href="index.dita"/>
+    <topicref href="PASSWD_T_creating-a-strong-password.dita">
+        <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
+    </topicref>
+    <topicref href="MFA_C_what-is-MFA.dita">
+        <topicref href="MFA_T_how-to-enroll-duo.dita"/>
+        <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
+    </topicref>
+    <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
+    <topicref href="VPN_C_what-is-a-vpn.dita">
+        <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
+    </topicref>
+    <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
+    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita"/>
+    <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
+    <topicref href="CLOUD_C_what-is-cloud-storage.dita">
+        <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
+        <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
+    </topicref>
+    <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
+    <topicref href="AILLM_C_what-is-artificial-intelligence.dita"/>
+    <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
+    <topicref href="conrefs.dita" processing-role="resource-only"/>
 </map>
