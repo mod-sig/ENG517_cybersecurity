@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="PASSWD_C_what-is-a-passkey">
+  <title>What is a Passkey?</title>
+
+  <shortdesc>Describes passkeys as a form of cryptography that increases
+  online security without using a password.</shortdesc>
+
+  <conbody>
+    <p/>
+  </conbody>
+</concept>

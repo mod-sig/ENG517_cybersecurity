@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="AILLM_C_what-is-artificial-intelligence">
+  <title>What is Artificial Intelligence?</title>
+
+  <shortdesc>Describes Artificial Intelligence (AI) and sub-types that fall
+  under the umbrella of AI that are applicable to academia, government and
+  industry.</shortdesc>
+
+  <conbody>
+    <p>AI is the theory and development of computer systems able to perform
+    tasks normally requiring human intelligence, such as visual perception,
+    speech recognition, decision-making and translation between languages.
+    Modern AI is usually built using machine learning algorithms. AI has
+    several sub-fields of importance that include but are not limited to:</p>
+
+    <ul>
+      <li>Machine learning describes software components (models) that allow
+      computers to recognise and bring context to patterns in data without the
+      rules having to be explicitly programmed by a human. Machine learning
+      applications can generate predictions, recommendations, or decisions
+      based on statistical reasoning.</li>
+
+      <li>Natural language processing analyses and derives information from
+      human language sources, including text, image, video and audio data.
+      Natural language processing applications are commonly used for language
+      classification and interpretation. Many natural language processing
+      applications not only process natural language but also generate content
+      that mimics it.</li>
+
+      <li>Generative AI refers to systems that use data models to generate new
+      examples of content such as text, images, audio, code and other data
+      modalities. Generative AI applications are typically trained on large
+      amounts of real-world data and can approximate human generated content
+      from prompts, even prompts that are limited or non-specific.</li>
+    </ul>
+
+    <p>AI systems are among the fastest growing applications globally. AI
+    drives internet searching, satellite navigation, and recommendation
+    systems. AI is also increasingly used to handle activities traditionally
+    undertaken by humans such as sorting large data sets, automating routine
+    tasks, creative endeavours and augmenting business activities such as
+    customer engagement, logistics, medical diagnosis, and cybersecurity.</p>
+
+    <p>Organisations from all sectors are exploring opportunities to improve
+    their operations with AI. While AI has the potential to increase
+    efficiency and lower costs, it can also intentionally or inadvertently
+    cause harm. For this reason, government, academia and industry have a role
+    to play in managing the risks associated with this technology, including
+    through research, regulation, policy and governance.</p>
+
+    <note type="notice">Organisations should be cautious with what information
+    they, and their personnel, provide to generative AI systems. Information
+    given to these systems may be incorporated into the system’s training data
+    and could inform outputs to prompts from non-organisational users.</note>
+  </conbody>
+</concept>

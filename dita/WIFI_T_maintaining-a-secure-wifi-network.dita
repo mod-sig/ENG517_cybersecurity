@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="WIFI_T_maintaining-a-secure-wifi-network">
+  <title>Maintaining a Secure WiFi Network</title>
+
+  <shortdesc>Maintaining a secure personal wifi network through best practices
+  regarding your wifi router, wifi password, and guest access.</shortdesc>
+
+  <taskbody>
+    <steps-informal><p/></steps-informal>
+  </taskbody>
+</task>
