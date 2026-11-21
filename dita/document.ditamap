@@ -21,7 +21,6 @@
         <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
     </topicref>
     <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
-    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita"/>
     <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
     <topicref href="CLOUD_C_what-is-cloud-storage.dita">
         <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
@@ -30,5 +29,7 @@
     <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
     <topicref href="AILLM_C_what-is-artificial-intelligence.dita"/>
     <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
+    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" processing-role="resource-only"/>
+    <topicref href="REUSE_R_list-of-local-it-support-teams.dita" processing-role="resource-only"/>
     <topicref href="conrefs.dita" processing-role="resource-only"/>
 </map>
