@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="SOCENG_T_reporting-suspected-phishing-emails.dita" xml:lang="en-us">
     <title>Reporting Suspected Phishing Emails</title>
     <shortdesc>Report suspected phishing emails instead of replying to or forwarding them.</shortdesc>

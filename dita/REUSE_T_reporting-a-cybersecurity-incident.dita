@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="REUSE_T_reporting_a_cybersecurity_incident" xml:lang="en-us">
     <title>Reporting a Cybersecurity Incident</title>
     <shortdesc>Report cybersecurity incidents to the NC State Help Desk.</shortdesc>
