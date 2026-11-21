@@ -10,9 +10,12 @@
     </prolog>
 
     <refbody>
-        Although the NC State Help Desk is always available for general problems, your local IT support team is the best place to go for support. These teams are most knowledgeable of the IT processes and needs of each college and unit.
+        <section>
+            Although the NC State Help Desk is always available for general problems, your local IT support team is the best place to go for support. These teams are most knowledgeable of the IT processes and needs of each college and unit.
         <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
-        <section title="Colleges">
+        </section>
+        <section id="it-colleges">
+            <title>Colleges</title>
             <ul>
                 <li><xref href="https://harvest.cals.ncsu.edu/cals-it/" format="html" scope="external">College of Agriculture and Life Sciences</xref></li>
                 <li><xref href="https://design.ncsu.edu/operations/it/" format="html" scope="external">College of Design</xref></li>
@@ -26,7 +29,8 @@
                 <li><xref href="https://cvm.ncsu.edu/computing-resources/" format="html" scope="external">College of Veterinary Medicine</xref></li>
             </ul>
         </section>
-        <section title="Administrative Units">
+        <section id="it-admin-units">
+            <title>Administrative Units</title>
             <ul>
                 <li><xref href="https://delta.ncsu.edu/" format="html" scope="external">DELTA</xref></li>
                 <li><xref href="https://tech.dasa.ncsu.edu/" format="html" scope="external">Division of Academic and Student Affairs</xref></li>
