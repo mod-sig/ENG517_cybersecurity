@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="REUSE_C_what-is-the-oit-walk-in-center.dita">
+    <title>What is the OIT Walk-In Center?</title>
+    <shortdesc>Staff and students can get in-person support for various technology issues at the OIT Walk-In Center.</shortdesc>
+    <prolog>
+        <author>Alice White</author>
+        <source href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0002185" scope="external"/>
+        <critdates><created date="2026-11-21"/></critdates>
+    </prolog>
+    <conbody>
+        <section id="wic-intro">
+            <title>The Office of Information Technology Walk-In Center (WIC)</title>
+            <p>If you have a technology problem that's easier to explain in person, you can get help at the WIC. Staff are able to help with the following issues:</p>
+            <ul audience="staff students">
+                <li><b>Unity account</b>: including password resets, disabled accounts</li>
+                <li><b>Multifactor authentication (MFA)</b>: assistance with configuring or troubleshooting <xref href="MFA_T_how-to-enroll-duo.dita" scope="local">Duo</xref></li>
+            </ul>
+            <ul audience="students">
+                <li><b>Operating system</b>: including virus and spyware removal</li>
+                <li><b>Software</b>: including software installation</li>
+                <!-->xref "eduroam and ncsu networks": <xref href="WIFI_T_connecting-to-nc-states-wi-fi.dita" scope="local">eduroam and ncsu networks</xref> <-->
+                <li><b>Network connectivity</b>: including eduroam and ncsu networks</li>
+                <li><b>Warranty and hardware repair</b>: For computers and warranties purchased through the NC State Bookstore as well as some manufacturers' warranties</li>
+            </ul>
+        </section>
+        <section id="before-arrive">
+            <title>Before You Arrive</title>
+            <ul>
+                <li>Bring your Wolfpack One Card (campus ID card)</li>
+                <li>Plan to stay at least 20 minutes</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <title>Location and Contact Information</title>
+            <ul>
+                <li><b>Operating hours</b>: 8:00 a.m. to 5:00 p.m., Monday to Friday
+                    <ul><li>Closed on university holidays and when the campus is closed (condition 2) because of adverse weather</li></ul>
+                </li>
+                <li><b>Location</b>:<p>West Dunn Building, Room 101 (Central Campus)</p>
+                <p>2901 Thurman Dr</p>
+                <p>Raleigh, NC 27695</p></li>
+                <li><b>Parking</b>: Pay-by-space parking is available in the Dan Allen Deck and the Bragaw parking lot</li>
+                <li><b>Phone</b>: (919) 515-4357</li>
+                <li><b>Website</b>: <xref href="https://help.ncsu.edu" format="html" scope="external">https://help.ncsu.edu</xref></li>
+            </ul>
+        </section>
+        <section id="employment" audience="students">
+            <title>Employment</title>
+            <p>The Office of Information Technology <xref href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0023092" scope="external">hires NC State students for part-time jobs</xref> in a number of areas.</p>
+        </section>
+    </conbody>
+</concept>
