@@ -23,7 +23,7 @@
     less control over your data, and potential for your data to be lost. To
     prevent these risks, adhere to the following best practices:</context>
 
-    <steps>
+    <steps-unordered>
       <step>
         <cmd>Use end-to-end encryption to protect your data as it moves
         between your device and the cloud service.</cmd>
@@ -74,6 +74,6 @@
         <info><note>You can typically find this information on the cloud
         service provider’s website.</note></info>
       </step>
-    </steps>
+    </steps-unordered>
   </taskbody>
 </task>
