@@ -31,5 +31,6 @@
     <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
     <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" toc="no"/>
     <topicref href="REUSE_R_list-of-local-it-support-teams.dita" toc="no"/>
+    <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" toc="no"/>
     <topicref href="conrefs.dita" processing-role="resource-only"/>
 </map>

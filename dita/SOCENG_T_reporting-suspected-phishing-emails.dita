@@ -30,6 +30,7 @@
                 <cmd>Contact <xref href="REUSE_R_list-of-local-it-support-teams.dita" scope="local">your local IT support</xref> or the NC State Help Desk.</cmd>
                 <info>
                     <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
+                    <note>If you have replied to or forwarded the suspicious email or clicked any links inside it, <xref href="REUSE_T_reporting-a-cybersecurity-incident.dita" scope="local">notify the help desk.</xref></note>
                 </info>
             </step>
         </steps>
