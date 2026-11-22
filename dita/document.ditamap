@@ -29,7 +29,8 @@
     <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
     <topicref href="AILLM_C_what-is-artificial-intelligence.dita"/>
     <glossref keys="cybersecurity-incident" href="glossary/cybersecurity-incident.dita"/>
-    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" processing-role="resource-only"/>
-    <topicref href="REUSE_R_list-of-local-it-support-teams.dita" processing-role="resource-only"/>
+    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" toc="no"/>
+    <topicref href="REUSE_R_list-of-local-it-support-teams.dita" toc="no"/>
+    <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" toc="no"/>
     <topicref href="conrefs.dita" processing-role="resource-only"/>
 </map>
