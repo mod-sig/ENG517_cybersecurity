@@ -62,9 +62,11 @@
       individually.</p>
     </section>
 
-    <note type="notice">Firewalls do not guarantee that your computer will not
+    <section>
+      <note type="notice">Firewalls do not guarantee that your computer will not
     be attacked. Firewalls primarily help protect against malicious traffic,
     not against malicious programs (i.e., malware), and may not protect you if
     you accidentally install or run malware on your computer.</note>
+    </section>
   </conbody>
 </concept>
