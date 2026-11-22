@@ -7,6 +7,14 @@
   <shortdesc>Describes multifactor authentication (MFA) and its
   uses.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://www.staysafeonline.org/articles/multi-factor-authentication"
+    scope="external"/>
+  </prolog>
+
   <conbody>
     <p>Multifactor authentication (MFA) is a login security method that
     requires two or more forms of identity verification to access an account.

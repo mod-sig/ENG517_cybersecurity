@@ -7,6 +7,13 @@
   <shortdesc>Enrolling in DUO MFA at NC State adds an extra layer of
   protection for your NC State unity ID.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html" href="https://it.poole.ncsu.edu/enrolling-in-duo/"
+    scope="external"/>
+  </prolog>
+
   <taskbody>
     <prereq>You must have at least one device (mobile phone, tablet or
     security key) to begin.</prereq>
