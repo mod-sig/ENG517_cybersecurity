@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="nc-state-wifi-options">
+  <title>Choose the Right NC State Wi-Fi Network</title>
+
+  <shortdesc>NC State students, faculty, staff, and visitors can select from
+  three wireless networks. The appropriate network depends on the user's
+  university affiliation and the device being connected.</shortdesc>
+
+  <conbody>
+    <section><title>About NC State's wireless networks</title> <p>NC State
+    provides three wireless networks for people who need internet access on
+    campus. Each network is intended for a different group of users or type of
+    device.</p> <dl>
+        <dlentry>
+          <dt>eduroam</dt>
+
+          <dd><p>The recommended, secured, and encrypted network for NC State
+          students, faculty, and staff. Eligible visitors from participating
+          eduroam institutions may also connect using credentials from their
+          home institution.</p></dd>
+        </dlentry>
+
+        <dlentry>
+          <dt>ncsu (Nomad)</dt>
+
+          <dd><p>An unsecured and unencrypted network for devices that cannot
+          connect to eduroam, such as some gaming consoles, smart TVs, and
+          other multimedia devices. It is not the preferred network for
+          ordinary university computing.</p></dd>
+        </dlentry>
+
+        <dlentry>
+          <dt>ncsu-guest</dt>
+
+          <dd><p>A guest network for visitors, recruiters, alumni, and other
+          guests who need campus internet access and are not connecting
+          through eduroam. Users must accept the network's terms and
+          conditions.</p></dd>
+        </dlentry>
+      </dl></section>
+
+    <section><title>Select a network based on your role</title> <dl>
+        <dlentry>
+          <dt>Students</dt>
+
+          <dd><p>Connect personal and university-supported devices to eduroam.
+          Enroll each device using the NC State eduroam setup
+          process.</p></dd>
+        </dlentry>
+
+        <dlentry>
+          <dt>Faculty</dt>
+
+          <dd><p>Use eduroam on supported laptops, phones, tablets, and other
+          compatible devices. Follow the enrollment procedure with your NC
+          State Unity credentials.</p></dd>
+        </dlentry>
+
+        <dlentry>
+          <dt>Staff</dt>
+
+          <dd><p>Use eduroam on supported devices for a secured wireless
+          connection. Follow university IT guidance for any university-managed
+          equipment.</p></dd>
+        </dlentry>
+
+        <dlentry>
+          <dt>Visitors</dt>
+
+          <dd><p>If your home institution participates in eduroam, connect
+          using your home institution's eduroam credentials. Otherwise, select
+          ncsu-guest and accept its terms and conditions. Visitors should not
+          use an NC State Unity ID unless one has been issued to
+          them.</p></dd>
+        </dlentry>
+      </dl></section>
+
+    <section><title>Choose a network for a device that cannot use
+    eduroam</title> <p>If a device does not support eduroam, such as some
+    smart TVs or gaming consoles, check the NC State wireless guidance for the
+    appropriate connection method. The ncsu (Nomad) network is intended for
+    these types of devices and is not encrypted.</p></section>
+
+    <section><title>Security and enrollment</title> <p>Use eduroam when you
+    are eligible and your device supports it because it provides an encrypted
+    wireless connection. The ncsu (Nomad) network is unencrypted. Guest users
+    should use the guest network or eduroam through their participating home
+    institution.</p> <p>NC State's wireless guidance states that eduroam
+    enrollment must be renewed every five years. If a device stops connecting
+    or its enrollment expires, follow the current enrollment instructions to
+    enroll again.</p></section>
+
+    <section><title>Related resources</title> <ul>
+        <li><xref href="https://wifi.ncsu.edu/">NC State Wireless Network
+        Access</xref></li>
+
+        <li><xref
+        href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0018418&amp;sys_kb_id=b92b951a97a39dd045331b34a253afb3&amp;spa=1">Windows
+        10 and 11 eduroam enrollment instructions</xref></li>
+
+        <li><xref href="https://help.ncsu.edu/">NC State IT Service
+        Portal</xref></li>
+      </ul></section>
+  </conbody>
+</concept>
