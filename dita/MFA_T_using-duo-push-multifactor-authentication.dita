@@ -8,6 +8,14 @@
   ensures that all individuals affiliated with the university are protected
   from unauthorized access to an NC State unity account.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://ncsu.service-now.com/sp?sysparm_article=KB0016515=kb_article_view=4=e40906b9839c17549a7074efeeaad359"
+    scope="external"/>
+  </prolog>
+
   <taskbody>
     <prereq>You must have Duo downloaded onto a personal device before using
     Duo.</prereq>

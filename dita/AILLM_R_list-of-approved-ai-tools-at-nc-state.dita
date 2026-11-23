@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="AILLM_R_list-of-approved-ai-tools-at-nc-state">
+  <title>List of Approved AI Tools at NC State</title>
+
+  <shortdesc>This list contains approved AI tools that can be used at NC
+  State.</shortdesc>
+
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://ncsu.service-now.com/sp?id=kb_article_view=KB0022588"
+    scope="external"/>
+  </prolog>
+
+  <refbody>
+    <simpletable id="list-of-AI-tools-nc-state">
+      <sthead>
+        <stentry>AI Tool</stentry>
+
+        <stentry>Description</stentry>
+      </sthead>
+
+      <strow>
+        <stentry>Google Gemini</stentry>
+
+        <stentry>Generative AI chatbot that is available at no cost to
+        students, faculty, and staff. Log in at <xref format="html"
+        href="https://gemini.google.com/"
+        scope="external">gemini.google.com</xref> using your NC State
+        account.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Google AI Pro for Education</stentry>
+
+        <stentry>Google AI Pro for Education is available to faculty, staff,
+        and departments with a paid Google Enterprise license. To purchase a
+        license, visit <xref format="html" href="https://software.ncsu.edu"
+        scope="external">software.ncsu.edu</xref>.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Google Gemini Notebook</stentry>
+
+        <stentry>This tool helps organize and refine your ideas by analyzing
+        documents and providing summaries, explanations, and suggestions.
+        Available to students, faculty, and staff at <xref format="html"
+        href="https://notebook.google.com/"
+        scope="external">notebooklm.google.com</xref>.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Google Vids</stentry>
+
+        <stentry>Allows you to create videos. Available to students, faculty,
+        and staff at <xref format="html" href="https://docs.google.com/videos"
+        scope="external">vids.google.com</xref>.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Microsoft Copilot</stentry>
+
+        <stentry>Microsoft’s generative AI chatbot, is available at no cost to
+        students, faculty, and staff by logging in to <xref format="html"
+        href="https://m365.cloud.microsoft/" scope="external">Microsoft
+        365</xref> with your NC State account.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Microsoft Copilot Pro</stentry>
+
+        <stentry>Available to faculty, staff, and departments with a paid
+        Microsoft 365 license. Includes integration with other Microsoft 365
+        products, such as Word, Excel, PowerPoint and Outlook.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Open AI ChatGPT Business</stentry>
+
+        <stentry>Formerly ChatGPT Team, this tool is approved for use by
+        faculty, staff, and departments. Uses GPT-4o and includes access to
+        additional features like DALL-E, browsing and advanced data analysis.
+        Purchase a license at <xref format="html"
+        href="https://chatgpt.com/business/"
+        scope="external">chatgpt.com/business</xref>.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Grammarly Pro</stentry>
+
+        <stentry>Approved for use by faculty, staff, and departments. Purchase
+        a license at <xref format="html" href="https://www.grammarly.com/pro"
+        scope="external">grammarly.com/pro</xref>.</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Zoom AI Companion Tools</stentry>
+
+        <stentry>Provides a suite of features that use large-language models
+        to provide interpretive services for a Zoom meeting, such as capturing
+        highlights of important information discussed during the meeting or
+        providing "next steps" based on the discussion at the end of a
+        meeting.</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
