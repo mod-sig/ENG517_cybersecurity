@@ -2,12 +2,114 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
 "generalTask.dtd">
 <task id="VPN_T_connecting-to-the-nc-state-virtual-private-network">
-  <title>Connecting to the NCSU Virtual Private Network</title>
+  <title>Connect to the NC State VPN</title>
 
-  <shortdesc>Connecting securely to NCSU's Virtual Private Network
-  (VPN).</shortdesc>
+  <shortdesc>Approved NC State faculty, staff, and students can connect to the
+  university's remote-access VPN using Cisco Secure Client, their Unity
+  credentials, and Duo authentication. Visitors must first obtain confirmation
+  that they are eligible for VPN access.</shortdesc>
 
   <taskbody>
-    <steps-informal><p/></steps-informal>
+    <context><p>This task provides guidance for NC State faculty, students,
+    staff, and visitors. The VPN Acceptable Use Policy identifies approved NC
+    State faculty, staff, and students as eligible users. It does not grant
+    general VPN access to visitors or guests.</p> <p><b>Faculty, students, and
+    staff:</b> Complete the connection procedure if you have been granted VPN
+    privileges and have your Unity ID and password.</p> <p><b>Visitors:</b> Do
+    not attempt to sign in using another person's credentials. Ask your NC
+    State sponsor or the appropriate university IT support group whether you
+    have been issued an account and VPN authorization. If you have not been
+    authorized, the VPN procedure does not apply to you. For on-campus guest
+    internet access, use the <xref href="https://wifi.ncsu.edu/">NC State
+    wireless network guidance</xref>.</p> <p>For policy details, see <xref
+    href="VPN_C_what-is-nc-states-virtual-private-network-policy.dita">What
+    Is NC State's Virtual Private Network Policy?</xref>.</p></context>
+
+    <steps>
+      <step>
+        <cmd>Confirm that you are authorized to use the NC State VPN.</cmd>
+
+        <info><p>Approved NC State faculty, students, and staff should confirm
+        that VPN privileges are enabled for their account. Visitors must
+        obtain explicit confirmation of eligibility and account access from
+        their NC State sponsor or university IT support before
+        proceeding.</p></info>
+      </step>
+
+      <step>
+        <cmd>Install Cisco Secure Client on your device.</cmd>
+
+        <info><p>Open the <xref
+        href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0018300">Install
+        the NC State VPN Client</xref> article. Choose the instructions for
+        your operating system and complete the installation.</p> <p>The
+        installation article provides guidance for supported Windows, macOS,
+        Linux, ChromeOS, Android, and iOS devices. Follow the current
+        instructions in the article for your device.</p></info>
+      </step>
+
+      <step>
+        <cmd>Open Cisco Secure Client.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter <userinput>vpn.ncsu.edu</userinput> in the connection field
+        and select <uicontrol>Connect</uicontrol>.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select the VPN group specified by NC State for your account or
+        access needs.</cmd>
+
+        <info><p>If you do not know which group to select, consult the
+        university's VPN connection instructions or contact the NC State Help
+        Desk. Do not guess at a group selection.</p></info>
+      </step>
+
+      <step>
+        <cmd>Enter your authorized username and password.</cmd>
+
+        <info><p>NC State faculty, students, and staff should use their Unity
+        ID and Unity password. Visitors may proceed only if NC State has
+        issued them an account and explicitly provided VPN authorization and
+        login instructions.</p></info>
+      </step>
+
+      <step>
+        <cmd>Complete Duo two-factor authentication.</cmd>
+
+        <info><p>Follow the Duo prompt and the current NC State VPN
+        instructions. The documented options include:</p> <ul>
+            <li><p>Enter <userinput>push</userinput> in the Second Password
+            field to request a Duo Push notification, then approve the sign-in
+            request you initiated in Duo Mobile.</p></li>
+
+            <li><p>Enter a passcode from the Duo Mobile app.</p></li>
+
+            <li><p>Use the security-key method if it is configured for your
+            account and supported by the sign-in prompt.</p></li>
+          </ul></info>
+      </step>
+    </steps>
+
+    <result><p>After successful authentication, Cisco Secure Client
+    establishes a connection to the NC State VPN for the resources your
+    account is authorized to access.</p></result>
+
+    <postreq><p>VPN users are automatically disconnected after a predetermined
+    period of inactivity. Sign in again to reconnect.</p> <p>Use the VPN in
+    accordance with the <xref
+    href="https://oit.ncsu.edu/vpn-acceptable-use-policy/">NC State VPN
+    Acceptable Use Policy</xref> and the <xref
+    href="https://policies.ncsu.edu/regulation/reg-08-00-03-computer-use/">NC
+    State Computer Use Regulation</xref>. Do not share your credentials or
+    allow unauthorized people to use your VPN connection.</p> <p>If you cannot
+    install or connect to the VPN, consult the <xref
+    href="https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016406">Connect
+    to the NC State VPN</xref> article or contact the NC State Help Desk at
+    919-515-HELP.</p> <p>Visitors who have not been granted VPN access should
+    contact their NC State sponsor or university IT support. For campus guest
+    Wi-Fi, consult the <xref href="https://wifi.ncsu.edu/">NC State Wireless
+    Network Access</xref> website.</p></postreq>
   </taskbody>
 </task>
