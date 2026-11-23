@@ -2,58 +2,66 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
 "map.dtd">
 <map>
-  <title>Cybersecurity at NC State</title>
+    <title>Cybersecurity at NC State</title>
 
-  <topicmeta>
-    <author>Faith Jezioranski-Davis</author>
+    <topicmeta>
+        <author>Faith Jezioranski-Davis</author>
+        <author>Josephine Roy</author>
+        <author>Alice White</author>
+    </topicmeta>
 
-    <author>Josephine Roy</author>
+    <topicref href="index.dita"/>
 
-    <author>Alice White</author>
-  </topicmeta>
+    <topicref href="PASSWD_C-create-good-password.dita">
+        <topicref href="PASSWD_T_creating-a-strong-password.dita"/>
+        <topicref href="PASSWD_C_what-is-a-passphrase.dita/"/>
+        <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
+    </topicref>
 
-  <topicref href="index.dita"/>
+    <topicref href="MFA_C_what-is-MFA.dita">
+        <topicref href="MFA_C_duo-mobile-app.dita"/>
+        <topicref href="MFA_T_how-to-enroll-duo.dita"/>
+        <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
+    </topicref>
 
-  <topicref href="PASSWD_T_creating-a-strong-password.dita">
-    <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
-  </topicref>
+    <topicref href="WIFI_C_understanding-nc-state-wi-fi.dita">
+        <topicref href="WIFI_T_connecting-to-nc-states-wi-fi.dita"/>
+        <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
+    </topicref>
 
-  <topicref href="MFA_C_what-is-MFA.dita">
-    <topicref href="MFA_T_how-to-enroll-duo.dita"/>
+    <topicref href="VPN_C_what-is-a-vpn.dita">
+        <topicref href="VPN_C_what-is-nc-states-virtual-private-network-policy.dita"/>
+        <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
+    </topicref>
 
-    <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
-  </topicref>
+    <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
 
-  <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
+    <!-- SHARE topics placeholder (Data Sharing) -->
 
-  <topicref href="VPN_C_what-is-a-vpn.dita">
-    <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
-  </topicref>
+    <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
 
-  <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
+    <topicref href="CLOUD_C_what-is-cloud-storage.dita">
+        <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
+        <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
+    </topicref>
 
-  <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
+    <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
 
-  <topicref href="CLOUD_C_what-is-cloud-storage.dita">
-    <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
+    <topicref href="AILLM_C_what-is-artificial-intelligence.dita">
+        <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
+    </topicref>
 
-    <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
-  </topicref>
+    <!-- SOCMEDIA topics placeholder (Social Media) -->
 
-  <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
+    <!-- content below here is not for the TOC -->
+    <glossref href="glossary/cybersecurity-incident.dita"
+                keys="cybersecurity-incident"/>
 
-  <topicref href="AILLM_C_what-is-artificial-intelligence.dita">
-    <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
-  </topicref>
+    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" toc="no"/>
 
-  <glossref href="glossary/cybersecurity-incident.dita"
-            keys="cybersecurity-incident"/>
+    <topicref href="REUSE_R_list-of-local-it-support-teams.dita" toc="no"/>
 
-  <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" toc="no"/>
+    <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" toc="no"/>
 
-  <topicref href="REUSE_R_list-of-local-it-support-teams.dita" toc="no"/>
-
-  <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" toc="no"/>
-
-  <topicref href="conrefs.dita" processing-role="resource-only"/>
+    <topicref href="conrefs.dita" processing-role="resource-only"/>
 </map>
