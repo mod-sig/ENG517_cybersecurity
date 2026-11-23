@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
 "concept.dtd">
-<concept id="PASSWD_C_what_is_a_passphrase">
+<concept id="PASSWD_C_what-is-a-passphrase">
   <title>What Is a Passphrase?</title>
 
   <shortdesc>A passphrase is a series of words used to protect an account. A

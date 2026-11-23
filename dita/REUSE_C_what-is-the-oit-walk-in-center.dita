@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="REUSE_C_what-is-the-oit-walk-in-center.dita">
+<concept id="REUSE_C_what-is-the-oit-walk-in-center.dita" audience="staff students">
     <title>What is the OIT Walk-In Center?</title>
     <shortdesc>Staff and students can get in-person support for various technology issues at the OIT Walk-In Center.</shortdesc>
     <prolog>
@@ -12,7 +12,7 @@
         <section id="wic-intro">
             <title>The Office of Information Technology Walk-In Center (WIC)</title>
             <p>If you have a technology problem that's easier to explain in person, you can get help at the WIC. Staff are able to help with the following issues:</p>
-            <ul audience="staff students">
+            <ul>
                 <li><b>Unity account</b>: including password resets, disabled accounts</li>
                 <li><b>Multifactor authentication (MFA)</b>: assistance with configuring or troubleshooting <xref href="MFA_T_how-to-enroll-duo.dita" scope="local">Duo</xref></li>
             </ul>
