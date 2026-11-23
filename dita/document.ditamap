@@ -14,7 +14,7 @@
 
     <topicref href="PASSWD_C-create-good-password.dita">
         <topicref href="PASSWD_T_creating-a-strong-password.dita"/>
-        <topicref href="PASSWD_C_what-is-a-passphrase.dita/"/>
+        <topicref href="PASSWD_C_what-is-a-passphrase.dita"/>
         <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
     </topicref>
 
