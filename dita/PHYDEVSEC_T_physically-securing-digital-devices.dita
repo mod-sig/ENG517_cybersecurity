@@ -8,6 +8,14 @@
   downloading malware onto the device, gaining unauthorized access, or
   stealing the device.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://www.cisa.gov/resources-tools/training/protect-physical-security-your-digital-devices"
+    scope="external"/>
+  </prolog>
+
   <taskbody>
     <context>Without physical safeguards in place to protect your device(s),
     you are more vulnerable to cyber intrusions that occur because of a

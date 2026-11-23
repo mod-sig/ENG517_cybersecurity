@@ -7,7 +7,52 @@
   <shortdesc>Describes types of cloud storage and services and their
   associated security threats.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://servercore.com/blog/articles/what-is-cloud-storage/"
+    scope="external"/>
+  </prolog>
+
   <conbody>
-    <p/>
+    <p>Cloud storage enables individuals and organizations to store, access,
+    and manage data via the Internet, removing the need for local drives or
+    in-house servers. Fundamentally, it virtualizes physical infrastructure
+    into a shared pool of offsite resources. When a file is uploaded, it
+    travels securely — typically using encryption protocols like TLS — to a
+    cloud endpoint, where it’s distributed across multiple backend systems and
+    saved with built-in redundancy to protect against data loss.</p>
+
+    <p>A “cloud storage device” can refer to client-side applications that map
+    a remote storage bucket as a virtual drive, or to software-defined storage
+    nodes on the provider’s side. By abstracting hardware details, they let
+    users treat cloud storage as if it were a local disk, simplifying
+    integration with existing workflows.</p>
+
+    <p>Cloud storage services are categorized by how they organize and present
+    data. The three main models — file, block, and object storage — each
+    address different performance, scalability, and application
+    requirements.</p>
+
+    <section><title>File Storage</title><p>File storage presents data as a
+    hierarchical file-and-folder structure, accessible via standard protocols
+    like Network File System (NFS) or Server Message Block
+    (SMB).</p></section>
+
+    <section><title>Block Storage</title><p>Block storage exposes raw storage
+    volumes — via iSCSI or Fibre Channel — to virtual machines or physical
+    servers. Each volume appears as a local disk, allowing operating systems
+    and databases to format it with their preferred file system.</p></section>
+
+    <section><title>Object Storage</title><p>Object storage stores data as
+    discrete objects within a flat, globally unique namespace, accessed
+    through RESTful APIs (for example, the Amazon S3 API). Each object
+    combines data, metadata (key–value pairs that describe the object), and a
+    unique identifier.</p> <note type="important">Securing data in the cloud
+    involves guarding against breaches, unauthorized access, and external
+    attacks. While cloud providers invest heavily in robust defenses,
+    organizations must understand how security responsibilities are shared and
+    implemented.</note></section>
   </conbody>
 </concept>
