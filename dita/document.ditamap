@@ -42,9 +42,9 @@
 
   <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
 
-  <topicref href="AILLM_C_what-is-artificial-intelligence.dita"/>
-
-  <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
+  <topicref href="AILLM_C_what-is-artificial-intelligence.dita">
+    <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
+  </topicref>
 
   <glossref href="glossary/cybersecurity-incident.dita"
             keys="cybersecurity-incident"/>
