@@ -7,7 +7,7 @@
             <ul>
                 <li>Unauthorized disclosure or alteration of private data (e.g.,
                     employee evaluations, social security numbers, certain
-                    research data</li>
+                    research data)</li>
                 <li>Loss or theft of computers or media that contains private
                     data</li>
                 <li>Inappropriate content on an NC State web page, such as
@@ -18,5 +18,10 @@
                 <li>Criminal activity conducted via computers</li>
             </ul>
         </p>
-        </glossdef>
+    </glossdef>
+    <prolog>
+        <author>Alice White</author>
+        <source href="https://cybersecurity.ncsu.edu/report-an-incident/" scope="external"/>
+        <critdates><created date="2026-11-10"/></critdates>
+    </prolog>
 </glossentry>

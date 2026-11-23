@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="SOCENG_T_reporting-suspected-phishing-emails.dita" xml:lang="en-us">
+    <title>Reporting Suspected Phishing Emails</title>
+    <shortdesc>Report suspected phishing emails instead of replying to or forwarding them.</shortdesc>
+    <prolog>
+        <author>Alice White</author>
+        <source href="https://cybersecurity.ncsu.edu/report-phishing/" scope="external"/>
+        <critdates><created date="2026-11-16"/></critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>If you receive a suspicious email, report it within Gmail and contact IT support.</p>
+            <note type="warning">Do not reply to or forward the email.</note>
+        </context>
+        <steps>
+            <stepsection>Report the Email within Gmail</stepsection>
+            <step>
+                <cmd>On a computer, open the suspicious email.</cmd>
+                <info><note type="warning">Do not click any links inside the email or attempt to download any attachments from the email.</note></info>
+            </step>
+            <step>
+                <cmd>Click the <menucascade><uicontrol>More</uicontrol></menucascade> or <menucascade><uicontrol>⋮</uicontrol></menucascade> option in the top-right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Select <menucascade><uicontrol>Report phishing</uicontrol></menucascade>.</cmd>
+            </step>
+            <stepsection>Contact Local IT Support</stepsection>
+            <step>
+                <cmd>Contact <xref href="REUSE_R_list-of-local-it-support-teams.dita" scope="local">your local IT support</xref> or the NC State Help Desk.</cmd>
+                <info>
+                    <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
+                    <note>If you have replied to or forwarded the suspicious email, clicked any links inside the email, or downloaded any attachments from the email (even accidentally), then <xref href="REUSE_T_reporting-a-cybersecurity-incident.dita" scope="local">notify the help desk.</xref></note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

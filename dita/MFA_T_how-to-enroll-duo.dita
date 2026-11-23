@@ -7,16 +7,27 @@
   <shortdesc>Enrolling in DUO MFA at NC State adds an extra layer of
   protection for your NC State unity ID.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html" href="https://it.poole.ncsu.edu/enrolling-in-duo/"
+    scope="external"/>
+  </prolog>
+
   <taskbody>
     <prereq>You must have at least one device (mobile phone, tablet or
     security key) to begin.</prereq>
+
+    <context><p><note type="attention">NC State encourages use of the Duo
+    mobile app as your primary authentication method for consistent
+    reliability.</note></p></context>
 
     <steps>
       <step>
         <cmd>Go to the <xref format="html"
         href="https://uw1.devicemanagement.duosecurity.com/frame/device-management/portal"
         scope="external">Duo Enrollment and Device Management</xref>
-        page</cmd>
+        page.</cmd>
       </step>
 
       <step>
@@ -26,11 +37,6 @@
       <step>
         <cmd>Follow the on-screen instructions to complete the enrollment
         process.</cmd>
-      </step>
-
-      <step>
-        <cmd>NC State encourages use of the Duo mobile app as your primary
-        authentication method for consistent reliability.</cmd>
       </step>
     </steps>
   </taskbody>

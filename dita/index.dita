@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="cybersecurity-homepage" xml:lang="en-us">
- <title>Cybersecurity Homepage</title>
- <shortdesc>Placeholder shortdesc for our homepage.</shortdesc>
- <prolog>
-  <author>Faith Jezioranski-Davis</author>
-  <author>Josephine Roy</author>
-  <author>Alice White</author>
- </prolog>
- <conbody>
-     <p>Placeholder conbody for our homepage.</p>
- </conbody>
+    <title>Cybersecurity Homepage</title>
+    <shortdesc>These webpages provide help for various cybersecurity-related concerns at
+        NC State for staff, students, and visitors.</shortdesc>
+    <prolog>
+        <author>Faith Jezioranski-Davis</author>
+        <author>Josephine Roy</author>
+        <author>Alice White</author>
+        <critdates><created date="2026-11-10"/></critdates>
+    </prolog>
+    <conbody>
+        <p>Placeholder conbody for our homepage. It will eventually describe the
+            organization of the pages or an overview of the various topics,
+            helping users decide where to look for information.</p>
+    </conbody>
 </concept>

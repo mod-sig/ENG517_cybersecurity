@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
-"task.dtd">
-<task id="connect-to-nc-state-vpn">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="VPN_T_connecting-to-the-nc-state-virtual-private-network">
   <title>Connect to the NC State VPN</title>
 
   <shortdesc>Approved NC State faculty, staff, and students can connect to the
@@ -20,9 +20,9 @@
     State sponsor or the appropriate university IT support group whether you
     have been issued an account and VPN authorization. If you have not been
     authorized, the VPN procedure does not apply to you. For on-campus guest
-    internet access, use the <xref href="https://wifi.ncsu.edu/">NC State
+    internet access, use the <xref href="https://wifi.ncsu.edu/" scope="external">NC State
     wireless network guidance</xref>.</p> <p>For policy details, see <xref
-    href="VPN_C_what-is-nc-state's-virtual-private-network-policy.dita">What
+    href="VPN_C_what-is-nc-states-virtual-private-network-policy.dita" scope="local">What
     Is NC State's Virtual Private Network Policy?</xref>.</p></context>
 
     <steps>
@@ -40,7 +40,7 @@
         <cmd>Install Cisco Secure Client on your device.</cmd>
 
         <info><p>Open the <xref
-        href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0018300">Install
+        href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0018300" scope="external">Install
         the NC State VPN Client</xref> article. Choose the instructions for
         your operating system and complete the installation.</p> <p>The
         installation article provides guidance for supported Windows, macOS,
@@ -99,17 +99,17 @@
     <postreq><p>VPN users are automatically disconnected after a predetermined
     period of inactivity. Sign in again to reconnect.</p> <p>Use the VPN in
     accordance with the <xref
-    href="https://oit.ncsu.edu/vpn-acceptable-use-policy/">NC State VPN
+    href="https://oit.ncsu.edu/vpn-acceptable-use-policy/" scope="external">NC State VPN
     Acceptable Use Policy</xref> and the <xref
-    href="https://policies.ncsu.edu/regulation/reg-08-00-03-computer-use/">NC
+    href="https://policies.ncsu.edu/regulation/reg-08-00-03-computer-use/" scope="external">NC
     State Computer Use Regulation</xref>. Do not share your credentials or
     allow unauthorized people to use your VPN connection.</p> <p>If you cannot
     install or connect to the VPN, consult the <xref
-    href="https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016406">Connect
+    href="https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016406" scope="external">Connect
     to the NC State VPN</xref> article or contact the NC State Help Desk at
     919-515-HELP.</p> <p>Visitors who have not been granted VPN access should
     contact their NC State sponsor or university IT support. For campus guest
-    Wi-Fi, consult the <xref href="https://wifi.ncsu.edu/">NC State Wireless
+    Wi-Fi, consult the <xref href="https://wifi.ncsu.edu/" scope="external">NC State Wireless
     Network Access</xref> website.</p></postreq>
   </taskbody>
 </task>
