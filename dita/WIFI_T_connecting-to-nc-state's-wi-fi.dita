@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="connect-to-nc-state-wifi">
+  <title>Connect to NC State Wi-Fi</title>
+
+  <shortdesc>Follow the instructions for your role and device to connect to
+  eduroam, ncsu-guest, or the ncsu (Nomad) network on campus.</shortdesc>
+
+  <taskbody>
+    <context><p>These instructions are for NC State students, faculty, staff,
+    and visitors who need wireless internet access on campus. Complete the
+    procedure that applies to your role and device; you do not need to
+    complete every audience-specific procedure.</p> <p><b>Students, faculty,
+    and staff:</b> Use eduroam on supported devices. The Windows 10 and 11
+    enrollment procedure below uses SecureW2 JoinNow and your NC State Unity
+    credentials.</p> <p><b>Visitors:</b> If your home institution participates
+    in eduroam, use its eduroam credentials. Otherwise, connect to ncsu-guest
+    and accept the terms and conditions. You do not need an NC State Unity ID
+    to use the guest network.</p> <p><b>Devices that cannot use eduroam:</b>
+    Consult the NC State wireless website for guidance about ncsu (Nomad),
+    which is intended for certain devices such as gaming consoles and smart
+    TVs.</p> <p>For an overview of the networks and help choosing one, see
+    <xref href="WIFI_C_understanding-nc-state-wi-fi.dita">Choose the Right NC
+    State Wi-Fi Network</xref>.</p></context>
+
+    <steps>
+      <step>
+        <cmd>Identify the Wi-Fi network that applies to you.</cmd>
+
+        <info><ul>
+            <li><p>NC State students, faculty, and staff: choose
+            eduroam.</p></li>
+
+            <li><p>Visitors whose home institution participates in eduroam:
+            choose eduroam and use your home institution credentials.</p></li>
+
+            <li><p>Other visitors: choose ncsu-guest.</p></li>
+
+            <li><p>Devices that cannot use eduroam: consult the NC State
+            wireless website for ncsu (Nomad) guidance.</p></li>
+          </ul></info>
+      </step>
+
+      <step>
+        <cmd>If you are an NC State student, faculty member, or staff member
+        using Windows 10 or 11, enroll your device in eduroam by following
+        these substeps. If this does not describe you, skip to the procedure
+        that applies to your role.</cmd>
+
+        <substeps>
+          <substep>
+            <cmd>Open the <xref href="https://cloud.securew2.com/">SecureW2
+            eduroam enrollment page</xref>.</cmd>
+
+            <info><p>Check that the page identifies your device's operating
+            system as Windows.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Select <uicontrol>Join Now</uicontrol> to download the
+            SecureW2 JoinNow program.</cmd>
+
+            <info><p>Wait for the download to finish before opening the
+            installer.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Locate and run the downloaded SecureW2 wrapper program.</cmd>
+
+            <info><p>Find the downloaded file named
+            <filepath>WiFi_North_Carolina_State_University_Wrapper</filepath>
+            and open it.</p> <p>If Windows displays a permission prompt,
+            review it and select <uicontrol>Yes</uicontrol> to continue if you
+            initiated the installation.</p> <p>If the program does not open
+            correctly, right-click the wrapper file and select <uicontrol>Run
+            as administrator</uicontrol>, if permitted on your
+            device.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Continue with the SecureW2 installation.</cmd>
+
+            <info><p>When the SecureW2 installation window appears, select
+            <uicontrol>Next</uicontrol>.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Sign in with your NC State Unity credentials.</cmd>
+
+            <info><p>In the browser window that opens, authenticate through
+            Shibboleth using your Unity ID and password. Select <uicontrol>LOG
+            IN</uicontrol>.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Complete the eduroam configuration.</cmd>
+
+            <info><p>Allow SecureW2 JoinNow to install the wireless
+            configuration. When the process finishes, select
+            <uicontrol>Done</uicontrol>.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Verify that Windows is connected to eduroam.</cmd>
+
+            <info><p>When the device is within range, it should connect
+            automatically. To check its status:</p> <ol>
+                <li><p>Open Windows <uicontrol>Settings</uicontrol>.</p></li>
+
+                <li><p>Select <uicontrol>Network &amp; Internet</uicontrol>,
+                then <uicontrol>Wi-Fi</uicontrol>.</p></li>
+
+                <li><p>Confirm that eduroam displays the status
+                <uicontrol>Connected</uicontrol>.</p></li>
+              </ol></info>
+          </substep>
+        </substeps>
+      </step>
+
+      <step>
+        <cmd>If you are a visitor who is not using eduroam through a
+        participating home institution, connect to ncsu-guest by following
+        these substeps.</cmd>
+
+        <substeps>
+          <substep>
+            <cmd>Open the Wi-Fi settings on your device.</cmd>
+
+            <info><p>On your phone, tablet, or computer, open the wireless
+            network settings and view the available networks.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Select <uicontrol>ncsu-guest</uicontrol> from the list of
+            available networks.</cmd>
+          </substep>
+
+          <substep>
+            <cmd>Complete the guest access prompt.</cmd>
+
+            <info><p>When the guest access page appears, read and accept the
+            terms and conditions to continue.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Verify that your device has internet access.</cmd>
+
+            <info><p>Open a web browser and visit a website to confirm that
+            the connection is working.</p></info>
+          </substep>
+        </substeps>
+      </step>
+
+      <step>
+        <cmd>If you are a visitor from an institution that participates in
+        eduroam, connect using your home institution's credentials.</cmd>
+
+        <substeps>
+          <substep>
+            <cmd>Open your device's Wi-Fi settings and select
+            <uicontrol>eduroam</uicontrol>.</cmd>
+          </substep>
+
+          <substep>
+            <cmd>Sign in using the eduroam credentials and configuration
+            supplied by your home institution.</cmd>
+
+            <info><p>Do not enter an NC State Unity ID unless NC State has
+            issued one to you. If your device has not been configured for
+            eduroam, contact your home institution's IT support for setup
+            instructions.</p></info>
+          </substep>
+
+          <substep>
+            <cmd>Verify that your device connects to eduroam and can access
+            the internet.</cmd>
+          </substep>
+        </substeps>
+      </step>
+
+      <step>
+        <cmd>If your device cannot use eduroam, consult the <xref
+        href="https://wifi.ncsu.edu/">NC State Wireless Network Access
+        website</xref> for the appropriate ncsu (Nomad) connection
+        guidance.</cmd>
+
+        <info><p>The ncsu (Nomad) network is intended for certain devices that
+        cannot use eduroam, such as some gaming consoles and smart TVs. It is
+        unsecured and unencrypted.</p></info>
+      </step>
+    </steps>
+
+    <result><p>Your device should connect to the appropriate NC State wireless
+    network when it is in range and the required enrollment or guest access
+    steps have been completed.</p></result>
+
+    <postreq><p>If eduroam enrollment or connection does not work, check that
+    you entered the correct credentials and repeat the enrollment procedure if
+    necessary. If the device is managed by NC State, follow your department's
+    IT support process.</p> <p>For additional assistance, visit the <xref
+    href="https://help.ncsu.edu/">NC State IT Service Portal</xref> or contact
+    the NC State Help Desk at 919-515-4357 (HELP).</p></postreq>
+  </taskbody>
+</task>

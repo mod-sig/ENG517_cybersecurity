@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="nc-state-vpn-policy">
+  <title>What Is NC State's Virtual Private Network Policy?</title>
+
+  <shortdesc>NC State's VPN Acceptable Use Policy describes the purpose of the
+  university's remote-access VPN, who may use it, and the responsibilities
+  users must follow when accessing the NC State network.</shortdesc>
+
+  <conbody>
+    <section><title>What is a virtual private network?</title> <p>A virtual
+    private network (VPN) creates a private connection over a public network,
+    such as the internet. NC State provides a remote-access VPN service for
+    approved users who need to access resources on the university network from
+    off campus.</p></section>
+
+    <section><title>Who may use the NC State VPN?</title> <p>The VPN
+    Acceptable Use Policy identifies approved NC State faculty, staff, and
+    students as users of the university VPN. Users must have VPN privileges
+    and authenticate with their NC State Unity ID and password.</p> <p>The
+    policy does not establish general VPN access for visitors or guests.
+    Visitors should not assume that they are eligible to use the NC State VPN.
+    A visitor who has separately been issued an eligible NC State account and
+    VPN privileges should follow the instructions and authorization provided
+    by NC State.</p></section>
+
+    <section><title>How is VPN service managed?</title> <p>NC State describes
+    VPN as a user-managed service. Users are responsible for selecting an
+    Internet Service Provider (ISP), coordinating installation, and installing
+    the required VPN software. Users are also responsible for obtaining and
+    paying for basic internet service.</p> <p>NC State provides Cisco Secure
+    Client for VPN access. Users must install the client software to activate
+    the VPN connection.</p></section>
+
+    <section><title>Authentication and access responsibilities</title> <p>VPN
+    access is controlled through ID and password authentication. For NC State
+    faculty, staff, and students, the credentials are the user's Unity ID and
+    password. Users must not share credentials or allow unauthorized people to
+    access the NC State network through their VPN connection.</p></section>
+
+    <section><title>Network traffic and connection behavior</title> <ul>
+        <li><p>The VPN is an IP-only resource; other protocols are not
+        supported.</p></li>
+
+        <li><p>Traffic destined for NC State networks is logged and associated
+        with the user, as permitted by NC State's Computer Use
+        Regulation.</p></li>
+
+        <li><p>Only traffic destined for NC State networks travels through the
+        VPN tunnel. Other traffic travels through the user's ISP unless the
+        full-tunnel VPN service is used.</p></li>
+
+        <li><p>VPN users are automatically disconnected after a predetermined
+        period of inactivity. Users can sign in again to reconnect.</p></li>
+      </ul></section>
+
+    <section><title>Enforcement and compliance</title> <p>VPN use is governed
+    by the VPN Acceptable Use Policy and the NC State Computer Use Regulation.
+    VPN service may be terminated immediately if suspicious activity is
+    detected and may remain disabled until the issue is identified and
+    resolved.</p> <p>An NC State employee who intentionally violates the VPN
+    Acceptable Use Policy may lose VPN privileges. By using the NC State VPN,
+    users agree to the policy's terms and conditions.</p></section>
+
+    <section><title>Visitors and guests</title> <p>The VPN policy does not
+    describe a general VPN connection procedure for campus visitors or guests.
+    Visitors who need campus internet access should use the guest wireless
+    network where available. Visitors who believe they require remote VPN
+    access must obtain authorization and instructions from their NC State
+    sponsor or the appropriate university IT support group.</p></section>
+
+    <section><title>Related resources</title> <ul>
+        <li><xref href="https://oit.ncsu.edu/vpn-acceptable-use-policy/">NC
+        State VPN Acceptable Use Policy</xref></li>
+
+        <li><xref
+        href="https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016406">Connect
+        to the NC State VPN</xref></li>
+
+        <li><xref
+        href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0018300">Install
+        the NC State VPN Client</xref></li>
+
+        <li><xref
+        href="https://policies.ncsu.edu/regulation/reg-08-00-03-computer-use/">NC
+        State Computer Use Regulation</xref></li>
+
+        <li><xref href="https://wifi.ncsu.edu/">NC State Wireless Network
+        Access</xref></li>
+      </ul></section>
+  </conbody>
+</concept>
