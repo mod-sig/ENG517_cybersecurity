@@ -9,7 +9,7 @@
   passcode.</shortdesc>
 
   <conbody>
-    <section><title>How Duo protects your NC State account</title> <p>Your NC
+    <section id="duo-protect"><title>How Duo protects your NC State account</title> <p>Your NC
     State Unity ID and password provide the first level of protection for your
     university accounts. Highly recommended, the Two-factor authentication
     (2FA) adds a second verification step. NC State uses Duo as its 2FA
@@ -19,7 +19,7 @@
     message, you can use the app to approve or deny a sign-in request with a
     push notification or generate a passcode.</p></section>
 
-    <section><title>Ways to verify a sign-in</title> <dl>
+    <section id="verify-sign-in"><title>Ways to verify a sign-in</title> <dl>
         <dlentry>
           <dt>Push notification</dt>
 
@@ -37,12 +37,12 @@
         </dlentry>
       </dl></section>
 
-    <section><title>Why use the Duo Mobile app?</title> <p>Text messages can
+    <section id="why-use-duo"><title>Why use the Duo Mobile app?</title> <p>Text messages can
     be delayed or unavailable during an SMS outage, and attackers may
     intercept them. Using Duo Mobile provides another way to complete 2FA
     through push notifications or app-generated passcodes.</p></section>
 
-    <section><title>Recognize and deny unexpected requests</title> <ul>
+    <section id="unexpected-requests"><title>Recognize and deny unexpected requests</title> <ul>
         <li>Approve a Duo push only when you are signing in and the request
         matches your activity.</li>
 
@@ -58,23 +58,23 @@
     contact the NC State Help Desk if you are concerned about your
     account.</p></section>
 
-    <section><title>Set up or restore Duo Mobile</title> <p>Download Duo
+    <section id="set-up-duo"><title>Set up or restore Duo Mobile</title> <p>Download Duo
     Mobile from the <xref
-    href="https://play.google.com/store/apps/details?id=com.duosecurity.duomobile">Google
+    href="https://play.google.com/store/apps/details?id=com.duosecurity.duomobile" scope="external">Google
     Play Store</xref> or the <xref
-    href="https://apps.apple.com/us/app/duo-mobile/id422663827">Apple App
+    href="https://apps.apple.com/us/app/duo-mobile/id422663827" scope="external">Apple App
     Store</xref>. You must enroll a device before using the app for NC State
     2FA. If you already use Duo Mobile and have a new or reset device, you may
     need to reactivate the app.</p> <p>For step-by-step instructions, see
     <xref
-    href="https://ncsu.service-now.com/kb_view.do?sys_kb_id=fccdf87a836efad0f78bf1647daad3d4">Reactivate
+    href="https://ncsu.service-now.com/kb_view.do?sys_kb_id=fccdf87a836efad0f78bf1647daad3d4" scope="external">Reactivate
     the Duo Mobile App</xref> or <xref
-    href="https://ncsu.service-now.com/kb_view.do?sys_kb_id=7e445a7f9710b9144972722f2153aff9">How
+    href="https://ncsu.service-now.com/kb_view.do?sys_kb_id=7e445a7f9710b9144972722f2153aff9" scope="external">How
     do I add a new device to Duo?</xref>.</p></section>
 
-    <section><title>Get help</title> <p>For help setting up or using Duo,
+    <section id="get-help"><title>Get help</title> <p>For help setting up or using Duo,
     contact the NC State Help Desk through the <xref
-    href="https://help.ncsu.edu/">NC State IT Service Portal</xref> or call
+    href="https://help.ncsu.edu/" scope="external">NC State IT Service Portal</xref> or call
     919-515-4357 (HELP).</p> <note type="important">This topic explains what
     Duo Mobile does and why it is recommended. It does not replace the
     step-by-step instructions for enrolling a device, using Duo during

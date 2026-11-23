@@ -50,7 +50,7 @@
 
         <substeps>
           <substep>
-            <cmd>Open the <xref href="https://cloud.securew2.com/">SecureW2
+            <cmd>Open the <xref href="https://cloud.securew2.com/" scope="external">SecureW2
             eduroam enrollment page</xref>.</cmd>
 
             <info><p>Check that the page identifies your device's operating
@@ -181,7 +181,7 @@
 
       <step>
         <cmd>If your device cannot use eduroam, consult the <xref
-        href="https://wifi.ncsu.edu/">NC State Wireless Network Access
+        href="https://wifi.ncsu.edu/" scope="external">NC State Wireless Network Access
         website</xref> for the appropriate ncsu (Nomad) connection
         guidance.</cmd>
 
@@ -199,7 +199,7 @@
     you entered the correct credentials and repeat the enrollment procedure if
     necessary. If the device is managed by NC State, follow your department's
     IT support process.</p> <p>For additional assistance, visit the <xref
-    href="https://help.ncsu.edu/">NC State IT Service Portal</xref> or contact
+    href="https://help.ncsu.edu/" scope="external">NC State IT Service Portal</xref> or contact
     the NC State Help Desk at 919-515-4357 (HELP).</p></postreq>
   </taskbody>
 </task>
