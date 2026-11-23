@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reusable-conref-elements">
+    <title>Reusable conref Elements</title>
+    <conbody>
+        <!-- standalone elements -->
+        <note id="help-desk-contact-info">NC State Help Desk Contact Info
+            <ul>
+                <li>email: <xref href="mailto:help@ncsu.edu" format="html" scope="external">help@ncsu.edu</xref></li>
+                <li>phone: (919) 515-4357</li>
+                <li>website: <xref href="https://ncsu.service-now.com/sp" format="html" scope="external">Campus IT Service Portal</xref></li>
+            </ul>
+        </note>
+        
+        <!-- inline/phrase-level sentences (try to avoid using these)
+        <p>
+            <ph id="warning-sentence">This action cannot be undone.</ph>
+        </p> -->
+    </conbody>
+</concept>

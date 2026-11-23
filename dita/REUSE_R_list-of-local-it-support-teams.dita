@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="REUSE_R_list-of-local-it-support-teams" audience="staff students">
+    <title>List of Local IT Support Teams</title>
+    <shortdesc>Most college and administrative units have specialized IT support teams.</shortdesc>
+    <prolog>
+        <author>Alice White</author>
+        <source href="https://oit.ncsu.edu/about/local-it-support/" scope="external"/>
+        <critdates><created date="2026-11-21"/></critdates>
+    </prolog>
+
+    <refbody>
+        <section>
+            Although the NC State Help Desk is always available for general problems, your local IT support team is the best place to go for support. These teams are most knowledgeable of the IT processes and needs of each college and unit.
+        <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
+        </section>
+        <section id="it-colleges">
+            <title>Colleges</title>
+            <ul>
+                <li><xref href="https://harvest.cals.ncsu.edu/cals-it/" format="html" scope="external">College of Agriculture and Life Sciences</xref></li>
+                <li><xref href="https://design.ncsu.edu/operations/it/" format="html" scope="external">College of Design</xref></li>
+                <li><xref href="https://ced.ncsu.edu/about-us/college-resources/edit/" format="html" scope="external">College of Education</xref></li>
+                <li><xref href="https://it.engr.ncsu.edu/about/it-contacts/" format="html" scope="external">College of Engineering</xref></li>
+                <li><xref href="https://chass.ncsu.edu/intranet/it/" format="html" scope="external">College of Humanities and Social Sciences</xref></li>
+                <li><xref href="https://cnr.ncsu.edu/internalresources/it/" format="html" scope="external">College of Natural Resources</xref></li>
+                <li><xref href="https://it.poole.ncsu.edu/" format="html" scope="external">Poole College of Management</xref></li>
+                <li><xref href="https://it.sciences.ncsu.edu/" format="html" scope="external">College of Sciences</xref></li>
+                <li><xref href="https://help.textiles.ncsu.edu/" format="html" scope="external">Wilson College of Textiles</xref></li>
+                <li><xref href="https://cvm.ncsu.edu/computing-resources/" format="html" scope="external">College of Veterinary Medicine</xref></li>
+            </ul>
+        </section>
+        <section id="it-admin-units">
+            <title>Administrative Units</title>
+            <ul>
+                <li><xref href="https://delta.ncsu.edu/" format="html" scope="external">DELTA</xref></li>
+                <li><xref href="https://tech.dasa.ncsu.edu/" format="html" scope="external">Division of Academic and Student Affairs</xref></li>
+                <li><xref href="https://eit.ces.ncsu.edu/" format="html" scope="external">Extension</xref></li>
+                <li><xref href="https://facilities.ofa.ncsu.edu/employees/employee-technology-resources/" format="html" scope="external">Facilities</xref></li>
+                <li><xref href="https://www.lib.ncsu.edu/staff/department/information-technology" format="html" scope="external">NC State University Libraries</xref></li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
