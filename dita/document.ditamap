@@ -113,6 +113,7 @@
             <relcell>
             <!-- topicref href="SOCENG_C_social-engineering-tactics.dita" linking="sourceonly"/ -->
             <!-- topicref href="SOCMEDIA_C_what-are-common-social-media-scams.dita" linking="sourceonly"/ -->
+            <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" linking="targetonly"/>
             </relcell>
             <relcell>
             <!-- topicref href="SOCENG_T_identifying-phishing-scams.dita" linking="sourceonly"/ -->
@@ -121,7 +122,6 @@
             
             <!-- Incident response receives links from multiple threat vectors -->
             <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" linking="targetonly"/>
-            <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" linking="targetonly"/>
             </relcell>
             <relcell>
             <topicref href="REUSE_R_list-of-local-it-support-teams.dita" linking="targetonly"/>
