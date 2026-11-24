@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="SHARE_T_how-to-safely-share-data">
+  <title>How to Safely Share Data</title>
+
+  <shortdesc>Provides best practices to follow when sharing data at NC
+  State.</shortdesc>
+
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://oit.ncsu.edu/2026/06/15/be-aware-of-what-you-share/"
+    scope="external"/>
+  </prolog>
+
+  <taskbody>
+    <context>Despite what we learned as children, sharing is not always caring
+    — especially when it comes to our data. Google Workspace gives our campus
+    community a space to learn, work and collaborate. But being mindful of how
+    you share within Google Drive goes a long way toward protecting the
+    university’s information.</context>
+
+    <prereq>Set aside some time to review your file and folder permissions,
+    and remember these tips as you continue to create Docs, Sheets and
+    more.</prereq>
+
+    <steps-unordered>
+      <step>
+        <cmd><b>Limit access permissions:</b> When sharing a file or folder
+        with an individual or group, Editor is typically the default access
+        setting. Consider choosing Viewer or Commenter instead. And avoid
+        general sharing, like anyone at NC State or anyone with the link,
+        unless necessary.</cmd>
+      </step>
+
+      <step>
+        <cmd><b>Set an expiration date:</b> Automatic expiration dates are a
+        hands-off way to give access for a limited time. See <xref
+        format="html"
+        href="https://support.google.com/drive/answer/7166529?sjid=18069124452918538784-NA=639311350350895557-3016454294=1#zippy=%2Cgive-someone-permissions-to-a-file-for-a-limited-time:~:text=Set%20an%20expiration%20date%20for%20a%20file"
+        scope="external">these instructions</xref> for setting an expiration
+        date.</cmd>
+      </step>
+
+      <step>
+        <cmd><b>Be wary of unexpected requests:</b> If you receive a
+        notification that someone you don’t know has requested access, do your
+        research before approving. If you think the request may be phishing,
+        <xref format="dita"
+        href="REUSE_T_reporting-a-cybersecurity-incident.dita"
+        scope="local">report it</xref> to the Office of Information
+        Technology</cmd>
+      </step>
+
+      <step>
+        <cmd><b>Understand data classifications:</b> NC State classifies data
+        into four categories based on sensitivity. Ultra-sensitive, or purple
+        data, is not allowed in Google Workspace. Learn more about <xref
+        format="html"
+        href="https://docs.google.com/spreadsheets/d/1cHJnpD7ObV3a48AIKcCe2AMRZ0MmN4GHkuZMAm1kljg/edit?gid=1639595516#gid=1639595516"
+        scope="external">data classifications</xref> and <xref format="html"
+        href="https://docs.google.com/spreadsheets/d/1NOV5M-ikuofzvZSQ4K0r97y9Cxk32E5g4K-vykjuq8w/edit?gid=0#gid=0"
+        scope="external">storage locations</xref>.</cmd>
+
+        <info>For questions, email or call the NC State Help Desk.<note
+        conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/></info>
+      </step>
+    </steps-unordered>
+  </taskbody>
+</task>
