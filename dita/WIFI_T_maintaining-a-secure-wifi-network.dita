@@ -21,7 +21,7 @@
     Personal wifi routers should follow these best practices to protect your
     personal devices from potential cybersecurity threats</note></context>
 
-    <steps-unordered>
+    <steps>
       <step>
         <cmd><xref format="dita"
         href="PASSWD_T_creating-a-strong-password.dita" scope="local">Create a
@@ -58,6 +58,6 @@
         factory settings by pressing the reset button usually located on the
         back of the router.</note></info>
       </step>
-    </steps-unordered>
+    </steps>
   </taskbody>
 </task>
