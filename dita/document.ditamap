@@ -2,165 +2,224 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
 "map.dtd">
 <map>
-    <title>Cybersecurity at NC State</title>
+  <title>Cybersecurity at NC State</title>
 
-    <topicmeta>
-        <author>Faith Jezioranski-Davis</author>
-        <author>Josephine Roy</author>
-        <author>Alice White</author>
-    </topicmeta>
+  <topicmeta>
+    <author>Faith Jezioranski-Davis</author>
 
-    <topicref href="index.dita"/>
+    <author>Josephine Roy</author>
 
-    <topicref href="PASSWD_C_create-good-password.dita">
-        <topicref href="PASSWD_T_creating-a-strong-password.dita"/>
-        <topicref href="PASSWD_C_what-is-a-passphrase.dita"/>
-        <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
-    </topicref>
+    <author>Alice White</author>
+  </topicmeta>
 
-    <topicref href="MFA_C_what-is-MFA.dita">
-        <topicref href="MFA_C_duo-mobile-app.dita"/>
-        <topicref href="MFA_T_how-to-enroll-duo.dita"/>
-        <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
-    </topicref>
+  <topicref href="index.dita"/>
 
-    <topicref href="WIFI_C_understanding-nc-state-wi-fi.dita">
-        <topicref href="WIFI_T_connecting-to-nc-states-wi-fi.dita"/>
-        <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
-    </topicref>
+  <topicref href="PASSWD_C_create-good-password.dita">
+    <topicref href="PASSWD_T_creating-a-strong-password.dita"/>
 
-    <topicref href="VPN_C_what-is-a-vpn.dita">
+    <topicref href="PASSWD_C_what-is-a-passphrase.dita"/>
+
+    <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
+  </topicref>
+
+  <topicref href="MFA_C_what-is-MFA.dita">
+    <topicref href="MFA_C_duo-mobile-app.dita"/>
+
+    <topicref href="MFA_T_how-to-enroll-duo.dita"/>
+
+    <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
+  </topicref>
+
+  <topicref href="WIFI_C_understanding-nc-state-wi-fi.dita">
+    <topicref href="WIFI_T_connecting-to-nc-states-wi-fi.dita"/>
+
+    <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
+  </topicref>
+
+  <topicref href="VPN_C_what-is-a-vpn.dita">
+    <topicref href="VPN_C_what-is-nc-states-virtual-private-network-policy.dita"/>
+
+    <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
+  </topicref>
+
+  <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
+
+  <topicref href="SHARE_T_how-to-safely-share-data.dita"/>
+
+  <!-- SHARE topics placeholder (Data Sharing) -->
+
+  <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
+
+  <topicref href="CLOUD_C_what-is-cloud-storage.dita">
+    <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
+
+    <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
+  </topicref>
+
+  <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
+
+  <topicref href="AILLM_C_what-is-artificial-intelligence.dita">
+    <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
+  </topicref>
+
+  <!-- SOCMEDIA topics placeholder (Social Media) -->
+
+  <!-- content below here is not for the TOC -->
+
+  <glossref href="glossary/cybersecurity-incident.dita"
+            keys="cybersecurity-incident"/>
+
+  <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" toc="no"/>
+
+  <topicref href="REUSE_R_list-of-local-it-support-teams.dita" toc="no"/>
+
+  <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" toc="no"/>
+
+  <topicref href="conrefs.dita" processing-role="resource-only"/>
+
+  <reltable title="Cybersecurity Cross-Topic Relationships">
+    <relheader>
+      <relcolspec type="concept"/>
+
+      <relcolspec type="task"/>
+
+      <relcolspec type="reference"/>
+    </relheader>
+
+    <!-- Network & Remote Access -->
+
+    <!-- Contains VPN and WIFI topics (siblings allowed due to cross-domain mix) -->
+
+    <relrow>
+      <relcell>
+        <topicref href="VPN_C_what-is-a-vpn.dita"/>
+
         <topicref href="VPN_C_what-is-nc-states-virtual-private-network-policy.dita"/>
+
+        <topicref href="WIFI_C_understanding-nc-state-wi-fi.dita"/>
+      </relcell>
+
+      <relcell>
         <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
-    </topicref>
 
-    <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"/>
+        <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
 
-    <!-- SHARE topics placeholder (Data Sharing) -->
+        <topicref href="WIFI_T_connecting-to-nc-states-wi-fi.dita"/>
+      </relcell>
 
-    <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
+      <relcell/>
+    </relrow>
 
-    <topicref href="CLOUD_C_what-is-cloud-storage.dita">
+    <!-- Identity, Passwords, & MFA -->
+
+    <!-- Contains UNITY, PASSWD, and MFA topics -->
+
+    <relrow>
+      <relcell>
+        <!--topicref href="UNITY_C_.dita"/ -->
+
+        <topicref href="PASSWD_C_create-good-password.dita"/>
+
+        <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
+
+        <topicref href="PASSWD_C_what-is-a-passphrase.dita"/>
+
+        <topicref href="MFA_C_what-is-MFA.dita"/>
+      </relcell>
+
+      <relcell>
+        <!-- topicref href="UNITY_T_setting-your-unity-id-password.dita"/ -->
+
+        <topicref href="PASSWD_T_creating-a-strong-password.dita"/>
+
+        <topicref href="MFA_T_how-to-enroll-duo.dita"/>
+
+        <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <!-- Threat Identification & Incident Support (Funnel) -->
+
+    <!-- Contains SOCENG, SOCMEDIA, and REUSE topics -->
+
+    <relrow>
+      <relcell>
+        <!-- topicref href="SOCENG_C_social-engineering-tactics.dita" linking="sourceonly"/ -->
+
+        <!-- topicref href="SOCMEDIA_C_what-are-common-social-media-scams.dita" linking="sourceonly"/ -->
+
+        <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita"
+                  linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <!-- topicref href="SOCENG_T_identifying-phishing-scams.dita" linking="sourceonly"/ -->
+
+        <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita"
+                  linking="sourceonly"/>
+
+        <!-- topicref href="SOCMEDIA_T_avoiding-social-media-scams.dita" linking="sourceonly"/ -->
+
+        <!-- Incident response receives links from multiple threat vectors -->
+
+        <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita"
+                  linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="REUSE_R_list-of-local-it-support-teams.dita"
+                  linking="targetonly"/>
+      </relcell>
+    </relrow>
+
+    <!-- Device Hardening, Software, & Cloud -->
+
+    <!-- Contains CLOUD, SOFTWARE, and PHYDEVSEC topics -->
+
+    <relrow>
+      <relcell>
+        <topicref href="CLOUD_C_what-is-cloud-storage.dita"/>
+
+        <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
+
+        <!-- topicref href="SOFTWARE_C_.dita"/ -->
+      </relcell>
+
+      <relcell>
         <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
+
+        <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
+      </relcell>
+
+      <relcell>
         <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
-    </topicref>
 
-    <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
+        <!-- topicref href="SOFTWARE_R_.dita"/ -->
+      </relcell>
+    </relrow>
 
-    <topicref href="AILLM_C_what-is-artificial-intelligence.dita">
+    <!-- AI Tools & Approved Technologies Ecosystem -->
+
+    <!-- Contains AILLM, SOFTWARE, and CLOUD topics -->
+
+    <relrow>
+      <relcell>
+        <topicref href="AILLM_C_what-is-artificial-intelligence.dita"/>
+      </relcell>
+
+      <relcell>
+        <!-- topicref href="AILLM_T_.dita"/ -->
+      </relcell>
+
+      <relcell>
         <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
-    </topicref>
 
-    <!-- SOCMEDIA topics placeholder (Social Media) -->
+        <!-- topicref href="SOFTWARE_R_.dita"/ -->
 
-    <!-- content below here is not for the TOC -->
-    <glossref href="glossary/cybersecurity-incident.dita"
-                keys="cybersecurity-incident"/>
-
-    <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" toc="no"/>
-
-    <topicref href="REUSE_R_list-of-local-it-support-teams.dita" toc="no"/>
-
-    <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" toc="no"/>
-
-    <topicref href="conrefs.dita" processing-role="resource-only"/>
-
-    <reltable title="Cybersecurity Cross-Topic Relationships">
-        <relheader>
-            <relcolspec type="concept"/>
-            <relcolspec type="task"/>
-            <relcolspec type="reference"/>
-        </relheader>
-
-        <!-- Network & Remote Access -->
-        <!-- Contains VPN and WIFI topics (siblings allowed due to cross-domain mix) -->
-        <relrow>
-            <relcell>
-            <topicref href="VPN_C_what-is-a-vpn.dita"/>
-            <topicref href="VPN_C_what-is-nc-states-virtual-private-network-policy.dita"/>
-            <topicref href="WIFI_C_understanding-nc-state-wi-fi.dita"/>
-            </relcell>
-            <relcell>
-            <topicref href="VPN_T_connecting-to-the-nc-state-virtual-private-network.dita"/>
-            <topicref href="WIFI_T_maintaining-a-secure-wifi-network.dita"/>
-            <topicref href="WIFI_T_connecting-to-nc-states-wi-fi.dita"/>
-            </relcell>
-            <relcell/>
-        </relrow>
-
-        <!-- Identity, Passwords, & MFA -->
-        <!-- Contains UNITY, PASSWD, and MFA topics -->
-        <relrow>
-            <relcell>
-            <!--topicref href="UNITY_C_.dita"/ -->
-            <topicref href="PASSWD_C_create-good-password.dita"/>
-            <topicref href="PASSWD_C_what-is-a-passkey.dita"/>
-            <topicref href="PASSWD_C_what-is-a-passphrase.dita"/>
-            <topicref href="MFA_C_what-is-MFA.dita"/>
-            </relcell>
-            <relcell>
-            <!-- topicref href="UNITY_T_setting-your-unity-id-password.dita"/ -->
-            <topicref href="PASSWD_T_creating-a-strong-password.dita"/>
-            <topicref href="MFA_T_how-to-enroll-duo.dita"/>
-            <topicref href="MFA_T_using-duo-push-multifactor-authentication.dita"/>
-            </relcell>
-            <relcell/>
-        </relrow>
-
-        <!-- Threat Identification & Incident Support (Funnel) -->
-        <!-- Contains SOCENG, SOCMEDIA, and REUSE topics -->
-        <relrow>
-            <relcell>
-            <!-- topicref href="SOCENG_C_social-engineering-tactics.dita" linking="sourceonly"/ -->
-            <!-- topicref href="SOCMEDIA_C_what-are-common-social-media-scams.dita" linking="sourceonly"/ -->
-            <topicref href="REUSE_C_what-is-the-oit-walk-in-center.dita" linking="targetonly"/>
-            </relcell>
-            <relcell>
-            <!-- topicref href="SOCENG_T_identifying-phishing-scams.dita" linking="sourceonly"/ -->
-            <topicref href="SOCENG_T_reporting-suspected-phishing-emails.dita" linking="sourceonly"/>
-            <!-- topicref href="SOCMEDIA_T_avoiding-social-media-scams.dita" linking="sourceonly"/ -->
-            
-            <!-- Incident response receives links from multiple threat vectors -->
-            <topicref href="REUSE_T_reporting-a-cybersecurity-incident.dita" linking="targetonly"/>
-            </relcell>
-            <relcell>
-            <topicref href="REUSE_R_list-of-local-it-support-teams.dita" linking="targetonly"/>
-            </relcell>
-        </relrow>
-
-        <!-- Device Hardening, Software, & Cloud -->
-        <!-- Contains CLOUD, SOFTWARE, and PHYDEVSEC topics -->
-        <relrow>
-            <relcell>
-            <topicref href="CLOUD_C_what-is-cloud-storage.dita"/>
-            <topicref href="SOFTWARE_C_what-is-a-firewall.dita"/>
-            <!-- topicref href="SOFTWARE_C_.dita"/ -->
-            </relcell>
-            <relcell>
-            <topicref href="CLOUD_T_maintaining-secure-cloud-storage-and-services.dita"/>
-            <topicref href="PHYDEVSEC_T_physically-securing-digital-devices.dita"/>
-            </relcell>
-            <relcell>
-            <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
-            <!-- topicref href="SOFTWARE_R_.dita"/ -->
-            </relcell>
-        </relrow>
-
-        <!-- AI Tools & Approved Technologies Ecosystem -->
-        <!-- Contains AILLM, SOFTWARE, and CLOUD topics -->
-        <relrow>
-            <relcell>
-            <topicref href="AILLM_C_what-is-artificial-intelligence.dita"/>
-            </relcell>
-            <relcell>
-            <!-- topicref href="AILLM_T_.dita"/ -->
-            </relcell>
-            <relcell>
-            <topicref href="AILLM_R_list-of-approved-ai-tools-at-nc-state.dita"/>
-            <!-- topicref href="SOFTWARE_R_.dita"/ -->
-            <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
-            </relcell>
-        </relrow>
-        </reltable>
-
+        <topicref href="CLOUD_R_list-of-cloud-storage-and-services-at-nc-state.dita"/>
+      </relcell>
+    </relrow>
+  </reltable>
 </map>
