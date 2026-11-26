@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="strengthening_device_security_software_hardware">
+  <title>Strengthening Your Device Security with Software and Hardware Protections</title>
+  <shortdesc>Follow these steps to strengthen the security of a personal or university-managed device using software protections, built-in hardware features, and safe handling practices.</shortdesc>
+  <taskbody>
+    <context>
+      <p>NC State students, faculty, staff, and visitors use computers, phones, and tablets to access accounts, communicate, study, teach, conduct research, and use online services. Combining software protections with hardware security features can reduce the risk of malware, unauthorized access, and information exposure.</p>
+      <p>Before changing a university-managed device, installing security software, or modifying network settings, follow current NC State IT guidance or contact the appropriate IT support team. Do not disable required security controls.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Identify the device and the information it accesses.</cmd>
+        <info><p>Determine whether the device is personally owned or managed by NC State. Consider whether it stores or accesses university credentials, coursework, research data, employee information, or other sensitive material. This helps you identify which university requirements and protections apply.</p></info>
+      </step>
+      <step>
+        <cmd>Install available operating-system, application, and firmware updates.</cmd>
+        <info><p>Use the device's supported update mechanism and install security updates promptly. Restart the device when required to complete updates. For a university-managed device, follow institutional update procedures rather than attempting to bypass management settings.</p></info>
+      </step>
+      <step>
+        <cmd>Check that trusted security software and firewall protections are active.</cmd>
+        <info><p>On a personal device, use reputable security software from a trusted source and keep its protection features and threat definitions current. Check that the operating-system firewall is enabled. On a university-managed device, use the security tools and settings provided or approved by NC State.</p></info>
+      </step>
+      <step>
+        <cmd>Enable the device's built-in security features.</cmd>
+        <info><p>Where supported, use features such as full-disk encryption, secure boot, a screen lock, and hardware-backed authentication. Use the device manufacturer's or NC State's instructions to check these features. Do not change firmware or encryption settings on a managed device without authorization.</p></info>
+      </step>
+      <step>
+        <cmd>Strengthen sign-in protection for the device and its accounts.</cmd>
+        <info><p>Set a strong device passcode or password and enable multifactor authentication for accounts that support it, including university accounts where required. Consider a compatible security key or built-in biometric sign-in option. Never share passwords, one-time codes, or recovery codes.</p></info>
+      </step>
+      <step>
+        <cmd>Secure the network connection and connected equipment.</cmd>
+        <info><p>Use trusted networks and avoid entering sensitive information on unknown or suspicious Wi-Fi networks. Keep personal router firmware updated and change default administrator credentials if you manage the router. On campus, connect using the official network options and follow NC State network guidance. Do not connect unauthorized equipment to restricted university networks.</p></info>
+      </step>
+      <step>
+        <cmd>Protect the device from loss, theft, and unauthorized viewing.</cmd>
+        <info><p>Lock the screen whenever you step away. Keep laptops, phones, and removable storage under your control in shared study areas, offices, labs, and public spaces. Avoid leaving devices unattended, and use a privacy screen when appropriate. Do not leave sensitive information visible on an unlocked screen.</p></info>
+      </step>
+      <step>
+        <cmd>Review security status and respond to anything unusual.</cmd>
+        <info><p>Periodically check update status, security alerts, account sign-in activity, and connected-device sessions. If you suspect compromise, stop using the affected device for sensitive activity, follow the service's official recovery instructions, and report university-related incidents through current NC State IT reporting channels.</p></info>
+      </step>
+    </steps>
+    <result>
+      <p>Your device has multiple complementary protections in place, including updated software, appropriate security tools, built-in hardware safeguards, stronger authentication, secure network practices, and physical protection. Continue reviewing these protections as devices and threats change.</p>
+    </result>
+    <postreq>
+      <p>For university-managed devices or information, follow NC State policies and current IT instructions. If you are unsure whether a security change is permitted or how to respond to a suspected incident, contact NC State IT support for guidance.</p>
+    </postreq>
+  </taskbody>
+</task>

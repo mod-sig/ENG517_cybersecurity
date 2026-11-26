@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="avoiding_and_reporting_phishing_scams">
+  <title>Avoiding and Reporting Phishing Scams</title>
+  <shortdesc>Follow these steps to recognize suspicious messages, verify links and requests, and report suspected phishing that could affect NC State students, faculty, staff, or visitors.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Phishing is an attempt to trick someone into revealing personal, financial, or login information, sending money, opening a harmful attachment, or visiting a fraudulent website. Phishing attempts may arrive through email, text messages, shared documents, social media, or calendar invitations.</p>
+      <p>Messages may imitate university account notices, payroll or benefits communications, student employment offers, delivery notifications, or messages from people you know. A message that appears familiar or urgent is not necessarily legitimate. Visitors should use the same caution when a message claims to represent NC State or requests information related to a campus visit or event.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Pause and assess whether the message or request is suspicious.</cmd>
+        <info>
+          <p>Be cautious if a message unexpectedly asks for your password, verification code, contact details, financial information, payment, or other sensitive information. Treat threats, urgent payment demands, unexpected invoices, and offers that seem too good to be true as warning signs. Do not reply, provide information, or send money until you have independently verified the request.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Verify the sender using a trusted method.</cmd>
+        <info>
+          <p>Check the complete sender address or phone number rather than relying only on the display name, logo, or message signature. Look for misspellings, unfamiliar domains, unexpected changes in the sender's address, and replies that do not match the conversation you expected.</p>
+          <p>If a message appears to come from a student, colleague, supervisor, university office, or service provider but seems unusual, contact that person or office using a phone number, email address, or website you already know to be genuine. Do not use contact details supplied only in the suspicious message.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Inspect links before opening them.</cmd>
+        <info>
+          <p>On a computer, hover over a link to preview its destination. On a mobile device, press and hold the link if your device allows you to preview it safely. Check the complete web address for misspellings, unexpected domains, or destinations that do not match the service named in the message. If the destination is unclear or suspicious, do not open it.</p>
+          <p>When accessing an NC State sign-in page, navigate using a known university website or bookmark rather than a link in an unsolicited message. Before entering credentials on an NC State Shibboleth sign-in page, verify that the web address begins with <codeph>https://shib.ncsu.edu</codeph>. Do not enter credentials if the address is different or you are uncertain about the page.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Handle unexpected attachments, shared files, and login requests cautiously.</cmd>
+        <info>
+          <p>Do not open unexpected attachments, enable macros, download files, or sign in to a shared document simply because the message appears to come from someone you know. Confirm unexpected file-sharing invitations or access requests with the sender through a separate trusted channel. Never provide a password or multifactor authentication code in response to a message or pop-up.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Report suspected phishing through an appropriate channel.</cmd>
+        <info>
+          <p>If you use an NC State Gmail account, you can report a suspicious email using Gmail's built-in reporting feature. On a computer, open the suspicious message, select the More option (three vertical dots), and choose <uicontrol>Report phishing</uicontrol>. Follow the current instructions in Gmail.</p>
+          <p>You can also forward suspicious university-related emails to the NC State phishing-reporting address published by the university. Do not forward the message to an unverified address. If you are unsure how to report a message, use the official NC State IT Service Portal or contact the NC State Help Desk at 919-515-4357 (919-515-HELP).</p>
+          <p>Visitors who do not have an NC State Gmail account should use the official NC State IT reporting or support channels rather than attempting to use Gmail's university-account reporting workflow.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Take immediate action if you interacted with a suspicious message.</cmd>
+        <info>
+          <p>If you entered a password on a suspicious website, change that password immediately using the genuine service website and a trusted device. If you reused the password elsewhere, change it on those accounts as well. Review account activity and sign out of unfamiliar sessions. If you shared a multifactor authentication code, approved an unexpected sign-in, opened a harmful attachment, or provided financial information, seek assistance promptly.</p>
+          <p>If your NC State account, university information, or a university-managed device may be affected, contact NC State IT through its official support channels as soon as possible. If financial information or payment details were exposed, contact the relevant financial institution using its verified contact information.</p>
+        </info>
+      </step>
+    </steps>
+    <result>
+      <p>You have checked the message for common warning signs, independently verified unexpected requests, avoided unsafe links and attachments, and reported suspected phishing through an appropriate channel. Reporting suspicious messages can help protect other members of the NC State community.</p>
+    </result>
+    <postreq>
+      <p>When in doubt, do not click, reply, download, pay, or provide information. Visit the official NC State website or contact a known university support channel to verify the request. Reporting suspected phishing promptly helps protect students, faculty, staff, visitors, and university resources.</p>
+    </postreq>
+  </taskbody>
+</task>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept id="cloud_c_the_5_step_getting_started_guide_for_cloud_security">
+  <title>Understanding the Five Foundations of Cloud Security</title>
+  <shortdesc>Learn how shared responsibility, cloud resource visibility, limited access, data encryption, and ongoing monitoring help protect information stored or accessed through cloud services at NC State University.</shortdesc>
+  <conbody>
+    <p>Cloud services allow members of the NC State University community to store files, collaborate, use applications, and access information from different locations and devices. These services are convenient, but information stored in the cloud still requires protection. A compromised account, an overly broad sharing permission, or an exposed file can put personal, academic, or university information at risk.</p>
+    <p>Students, faculty, staff, and visitors can make safer choices by understanding five foundations of cloud security. These practices complement university security requirements and the protections provided by approved cloud-service providers.</p>
+    <section>
+      <title>1. Understand shared security responsibilities</title>
+      <p>Cloud security is a shared responsibility. A cloud provider protects parts of the service, such as its underlying infrastructure, while the customer remains responsible for how accounts, data, settings, and permissions are used. The exact division depends on the service.</p>
+      <p>For members of the NC State community, this means using university-approved services appropriately, protecting account credentials, following university policies, and checking sharing and privacy settings. Do not assume that a cloud provider automatically protects every file or account from unsafe sharing or account misuse.</p>
+    </section>
+    <section>
+      <title>2. Know what information and cloud resources you use</title>
+      <p>Visibility means knowing which cloud services you use, what information you store in them, and who can access that information. Cloud resources may include shared folders, online documents, collaboration spaces, course materials, research files, and applications.</p>
+      <p>Review files and folders you own or manage. Remove outdated copies when appropriate, check who has access, and avoid placing university or personal information in unfamiliar or unapproved services. Before sharing research, student records, personnel information, or other sensitive material, confirm that the service and sharing method are permitted for that information.</p>
+    </section>
+    <section>
+      <title>3. Give people only the access they need</title>
+      <p>The principle of least privilege means granting users only the access required to complete a particular task. For example, someone who only needs to read a document should not automatically receive permission to edit it or manage the folder that contains it.</p>
+      <p>Choose the narrowest suitable sharing option, such as access for named people rather than a public or unrestricted link. Review access when a class, research project, work assignment, or collaboration ends. Do not share your university account or password with another person.</p>
+    </section>
+    <section>
+      <title>4. Protect information with encryption and approved services</title>
+      <p>Encryption helps make information unreadable to people who are not authorized to access it. It can protect data while it is being transmitted between a device and a cloud service and while it is stored by the service. Many reputable cloud services provide encryption, but users should not assume that every service or configuration offers the same protection.</p>
+      <p>Use university-approved services for university information and follow applicable NC State requirements for sensitive data. Keep devices and browsers updated, use secure network connections, and avoid uploading confidential or sensitive information to personal cloud accounts or unreviewed services. Encryption does not replace careful access control or safe account practices.</p>
+    </section>
+    <section>
+      <title>5. Monitor accounts, activity, and sharing</title>
+      <p>Ongoing monitoring helps identify unusual activity and unintended exposure. Pay attention to account security notifications, unexpected sign-in alerts, unfamiliar changes to files or permissions, and messages asking you to approve an action you did not initiate.</p>
+      <p>Review sharing settings periodically, sign out of accounts on shared or public devices, and report suspected account compromise or accidental exposure through the appropriate NC State support or security reporting channel. Visitors should notify their university host or the designated support contact if they encounter a security concern while using university-provided access.</p>
+    </section>
+    <section>
+      <title>Choose cloud services carefully</title>
+      <p>Before using a cloud service for university work, consider what information it will contain, who needs access, and whether the service is approved for that purpose. Students, faculty, and staff should consult current NC State information technology guidance and applicable data-handling policies. Visitors should use only the access and services provided or authorized for their visit.</p>
+    </section>
+    <section>
+      <title>Key takeaway</title>
+      <p>Cloud security is not a one-time setup. Understanding responsibilities, knowing where information is stored, limiting access, protecting data, and watching for unusual activity all help reduce risk. These habits support safer use of cloud services across learning, research, teaching, university operations, and campus visits.</p>
+    </section>
+  </conbody>
+</concept>

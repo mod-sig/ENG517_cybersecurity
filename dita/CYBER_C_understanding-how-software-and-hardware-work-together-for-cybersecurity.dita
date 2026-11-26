@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="understanding_software_hardware_cybersecurity">
+  <title>Understanding How Software and Hardware Work Together for Cybersecurity</title>
+  <shortdesc>Learn how software protections and hardware security features work together to help NC State students, faculty, staff, and visitors protect devices, accounts, and information.</shortdesc>
+  <conbody>
+    <section>
+      <title>Why cybersecurity needs more than one layer</title>
+      <p>Devices used for coursework, research, teaching, university services, and personal communication face a range of digital and physical risks. Malicious software, unauthorized access, unsafe networks, lost devices, and unpatched vulnerabilities can expose information or interrupt work.</p>
+      <p>No single security feature protects against every threat. A layered approach combines protections built into a device with security software, safe user practices, and appropriate network safeguards. If one protection fails, other layers may still reduce the risk.</p>
+    </section>
+    <section>
+      <title>How software contributes to device security</title>
+      <p>Security software helps detect, prevent, and respond to threats that affect devices and information. Common examples include:</p>
+      <ul>
+        <li><b>Antivirus and anti-malware tools:</b> Scan for malicious files and activity and help block or remove threats.</li>
+        <li><b>Firewalls:</b> Control network connections to help prevent unauthorized traffic from reaching a device or network.</li>
+        <li><b>Encryption:</b> Makes protected information unreadable to people who do not have the required key or credentials.</li>
+        <li><b>Intrusion detection and security monitoring:</b> Identify unusual activity that may indicate an attempted or successful compromise.</li>
+        <li><b>Software and operating-system updates:</b> Correct known security weaknesses and improve protection against emerging threats.</li>
+      </ul>
+      <p>Use trusted software sources and follow NC State guidance for university-managed devices. Avoid installing unapproved tools on devices managed by the university.</p>
+    </section>
+    <section>
+      <title>How hardware contributes to device security</title>
+      <p>Hardware includes the physical components of computers, phones, tablets, and network equipment. Some hardware features provide security protections that complement software:</p>
+      <ul>
+        <li><b>Secure boot and trusted hardware features:</b> Help verify that a device starts using trusted system components.</li>
+        <li><b>Hardware-backed authentication:</b> Security keys and built-in biometric readers can support stronger sign-in protections when configured with a compatible service.</li>
+        <li><b>Hardware-based encryption support:</b> Some devices include components that help protect encryption keys and support storage encryption.</li>
+        <li><b>Secure network equipment:</b> Routers and other network devices can provide traffic controls and network separation when properly configured and maintained.</li>
+        <li><b>Physical protections:</b> Device locks, secure storage, and privacy screens can reduce risks from theft, loss, or unauthorized viewing.</li>
+      </ul>
+    </section>
+    <section>
+      <title>Why software and hardware protections work better together</title>
+      <p>Software and hardware address different parts of the security problem. For example, device encryption can help protect stored information, while a strong sign-in method helps prevent an unauthorized person from accessing the device. Security software can identify malicious activity, while operating-system and firmware updates address weaknesses that attackers might exploit.</p>
+      <p>These protections are most effective when they are used together with careful account management, secure network practices, and physical control of devices. A security feature that is disabled, outdated, or incorrectly configured may provide less protection than expected.</p>
+    </section>
+    <section>
+      <title>Applying layered security in the NC State community</title>
+      <p>Students can protect coursework, personal accounts, and research-related information by keeping personal devices updated, using trusted security tools, enabling multifactor authentication, and securing devices when studying in shared spaces.</p>
+      <p>Faculty and staff should follow university requirements for university-managed computers, research devices, and institutional information. Consult NC State IT guidance before changing security configurations, installing software, connecting equipment, or handling sensitive university data.</p>
+      <p>Visitors should keep their personal devices updated, use appropriate sign-in protections, avoid accessing sensitive information over untrusted networks, and keep devices physically secure while on campus.</p>
+    </section>
+    <section>
+      <title>Ongoing maintenance and awareness</title>
+      <p>Cybersecurity requires regular attention. Software updates, firmware updates, account reviews, device checks, and awareness of suspicious messages help maintain protection over time. Users should also know how to report suspected security incidents and where to find current university guidance.</p>
+    </section>
+    <section>
+      <title>Key takeaway</title>
+      <p>Software and hardware provide complementary layers of cybersecurity. Combining updated software, built-in device protections, strong authentication, secure networks, and physical safeguards helps NC State students, faculty, staff, and visitors reduce the risk of unauthorized access and data exposure.</p>
+    </section>
+  </conbody>
+</concept>

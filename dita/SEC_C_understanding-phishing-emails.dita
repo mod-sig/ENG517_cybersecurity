@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="understanding_phishing_emails">
+  <title>Understanding Phishing Emails</title>
+  <shortdesc>Understand how phishing emails imitate trusted people and organizations, how to recognize deceptive messages, and why careful verification helps protect NC State students, faculty, staff, and visitors.</shortdesc>
+  <conbody>
+    <section>
+      <title>What is email phishing?</title>
+      <p>Phishing is a form of social engineering in which an attacker uses a deceptive message to persuade someone to reveal information, send money, open an attachment, visit a fraudulent website, or take another action that benefits the attacker. Email phishing may target personal accounts as well as university accounts and information.</p>
+      <p>Phishing messages can imitate university offices, instructors, supervisors, coworkers, vendors, service providers, or people known to the recipient. They may appear as unexpected invoices, file-sharing invitations, account alerts, meeting requests, job opportunities, or requests for help.</p>
+    </section>
+    <section>
+      <title>Why phishing messages can be difficult to recognize</title>
+      <p>Phishing messages are not always poorly written or obviously suspicious. Attackers may research publicly available information, imitate an organization's language and branding, and tailor messages to a person's role, projects, or interests. Artificial intelligence can help attackers produce polished, personalized messages that do not contain the spelling or grammar errors people once associated with scams.</p>
+      <p>Attackers may also use information from public profiles, websites, and social media to make a message seem relevant. A familiar name, professional tone, university logo, or convincing explanation does not prove that a message is legitimate.</p>
+    </section>
+    <section>
+      <title>How compromised accounts increase risk</title>
+      <p>A message from a recognized email address is not automatically safe. If an attacker gains access to a colleague's, classmate's, or vendor's account, the attacker may send fraudulent messages from that legitimate account. They may also reply within an existing email conversation, making the request appear expected.</p>
+      <p>Consider the context of the message. An unexpected invoice, unfamiliar file, unusual link, sudden change in payment instructions, or request for credentials deserves independent verification—even when it arrives in an existing conversation or appears to come from someone you know.</p>
+    </section>
+    <section>
+      <title>Common techniques used in phishing emails</title>
+      <dl>
+        <dlentry>
+          <dt>Display-name spoofing</dt>
+          <dd>An attacker chooses a display name that resembles a university leader, colleague, instructor, or service provider. The actual email address may belong to an unrelated account or domain.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Lookalike domains</dt>
+          <dd>An attacker uses a web or email domain that resembles a legitimate one. Small differences—such as an added hyphen, substituted character, or similar-looking letter combination—can be difficult to notice at a glance.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Misleading link text</dt>
+          <dd>The visible words in a message may suggest that a link leads to a trusted website, while the link's actual destination opens an unrelated or fraudulent page.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Unexpected attachments and file invitations</dt>
+          <dd>A message may encourage the recipient to open an attachment, download a file, or sign in to view a shared document. The file or page may contain harmful content or attempt to collect login information.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Urgency and unusual requests</dt>
+          <dd>A message may create pressure by threatening account closure, demanding immediate payment, requesting confidential information, or claiming that a quick response is required.</dd>
+        </dlentry>
+      </dl>
+    </section>
+    <section>
+      <title>Why verification matters more than appearance</title>
+      <p>Recognizing phishing requires checking the message's details and context rather than judging it only by appearance. Review the sender's complete email address, consider whether the request is expected, and inspect a link's actual destination before opening it. If a request from someone you know is unusual, confirm it through a separate communication method using contact information you already trust.</p>
+      <p>When accessing a university service, navigate to the official website directly or use a trusted bookmark instead of relying on a link in an unexpected email. Do not provide passwords, multifactor authentication codes, or sensitive information in response to an unsolicited request.</p>
+    </section>
+    <section>
+      <title>Phishing and the NC State community</title>
+      <p>Phishing can affect students, faculty, staff, and visitors. A compromised account may expose personal information, university communications, research materials, course-related files, or access to university services. A fraudulent message sent from one account can also put classmates, colleagues, collaborators, and other community members at risk.</p>
+      <p>Students should be alert to messages about course access, financial aid, employment, scholarships, and shared class documents. Faculty and staff should be cautious with requests involving payroll, purchasing, invoices, research, personnel information, and vendor communications. Visitors should verify unexpected messages that claim to concern campus access, events, payments, or registration.</p>
+    </section>
+    <section>
+      <title>Reporting and responding to suspected phishing</title>
+      <p>Reporting suspicious messages helps the university investigate potential threats and reduce the chance that others will be affected. Users of NC State Gmail can use Gmail's built-in Report phishing option on a suspicious message. Community members can also consult official NC State IT support and security channels for current reporting instructions.</p>
+      <p>If someone clicks a suspicious link, opens an unexpected attachment, shares a verification code, or enters a password on a questionable page, prompt action can limit further harm. The affected person should change exposed passwords using the genuine service, review account activity, and contact NC State IT promptly if a university account, device, or information may be involved. Reporting an incident quickly is more important than worrying about embarrassment.</p>
+    </section>
+    <section>
+      <title>Key takeaway</title>
+      <p>Modern phishing can be polished, personalized, and sent from compromised legitimate accounts. A familiar sender, professional writing, and convincing branding are not proof of authenticity. NC State students, faculty, staff, and visitors can reduce risk by evaluating context, checking complete addresses and link destinations, verifying unusual requests through a separate trusted channel, and reporting suspected phishing promptly.</p>
+    </section>
+  </conbody>
+</concept>

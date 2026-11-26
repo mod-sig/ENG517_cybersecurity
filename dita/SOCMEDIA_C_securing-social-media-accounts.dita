@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="securing_social_media_accounts">
+  <title>Securing Social Media Accounts</title>
+  <shortdesc>Learn how NC State students, faculty, staff, and visitors can protect social media accounts, manage personal information, and recognize suspicious messages and links.</shortdesc>
+  <conbody>
+    <section>
+      <title>Why social media security matters</title>
+      <p>Social media helps the NC State community communicate, share campus experiences, follow university news, and participate in student, professional, and community groups. However, an exposed account can reveal personal information, spread fraudulent messages, or be used to impersonate its owner.</p>
+      <p>Students, faculty, staff, and visitors should review account security and privacy settings regularly. Security settings differ across platforms, so consult the current help and security guidance provided by each service.</p>
+    </section>
+    <section>
+      <title>Use strong, unique passwords</title>
+      <p>Create a long, hard-to-guess password for each social media account. A passphrase made from several unrelated words can be easier to remember while remaining difficult to guess. Do not reuse your NC State Unity password or another account password on social media.</p>
+      <p>Consider using a reputable password manager to create and store unique passwords. Never share passwords through direct messages, email, or social media posts.</p>
+    </section>
+    <section>
+      <title>Enable multifactor authentication</title>
+      <p>Multifactor authentication (MFA), also called two-factor authentication (2FA), adds a verification step when you sign in. Depending on the platform, this may use an authentication app, a security key, or another approved verification method.</p>
+      <p>Enable MFA wherever the service offers it, especially on accounts that contain personal information or are used to communicate with classmates, colleagues, student organizations, or professional contacts. Keep recovery methods current and protect backup codes as carefully as passwords.</p>
+    </section>
+    <section>
+      <title>Review privacy and account settings</title>
+      <p>Check who can view your profile, posts, photos, contact information, friend or follower lists, and activity. Limit visibility to the audience that needs access. Review tagging, location-sharing, search, and direct-message settings as well.</p>
+      <p>Remember that a private account does not prevent an approved follower from taking a screenshot or sharing content. Avoid posting information that should remain confidential.</p>
+    </section>
+    <section>
+      <title>Protect devices and active sessions</title>
+      <p>Use a screen lock on phones, tablets, and computers that access social media. Sign out when using a shared or public device, and do not save passwords in a browser on a device that other people can use.</p>
+      <p>Review the list of devices and active sessions in each platform's security settings. Sign out of sessions you do not recognize or no longer use. Keep operating systems, browsers, and social media applications updated.</p>
+    </section>
+    <section>
+      <title>Limit personal information and manage your digital footprint</title>
+      <p>Your digital footprint includes information you post, share, like, and make available through your profile. Details such as your schedule, travel plans, location, phone number, student or employee information, and photographs of identification documents may create risks when shared publicly.</p>
+      <p>Before posting, consider who can see the information and how it could be combined with other details. For example, avoid publicly sharing real-time information about when you are away from your residence, office, or campus workspace. Ask friends and colleagues to respect your privacy when posting or tagging content about you.</p>
+    </section>
+    <section>
+      <title>Recognize suspicious accounts and phishing attempts</title>
+      <p>Attackers may use fake profiles, impersonate people you know, or take over legitimate accounts. They may send urgent requests, unexpected attachments, suspicious links, requests for login details, or offers that seem unusually attractive.</p>
+      <ul>
+        <li>Check the account identity and contact the person through a separate, trusted channel if a message seems unusual.</li>
+        <li>Do not open unexpected links or attachments until you have verified that they are legitimate.</li>
+        <li>Do not enter your password or verification code after following a link in an unsolicited message.</li>
+        <li>Be cautious of messages that create urgency, threaten consequences, request money, or ask you to disclose personal or university information.</li>
+        <li>Use the platform's block and report features to address impersonation, spam, harassment, or suspicious activity.</li>
+      </ul>
+    </section>
+    <section>
+      <title>Respond to a compromised account</title>
+      <p>If you believe a social media account has been accessed without permission, use the platform's official recovery process from its genuine website or application. Change the password from a trusted device, end unfamiliar sessions, review recovery information, and enable MFA if it is not already active.</p>
+      <p>If you reused the compromised password on other services, change it on those services too. Warn contacts if the account may have sent fraudulent messages. If the incident involves an NC State account, university information, or a university-managed social media account, follow current NC State cybersecurity reporting guidance.</p>
+    </section>
+    <section>
+      <title>Key takeaway</title>
+      <p>Protecting social media accounts requires more than a strong password. Use unique passwords and MFA, review privacy settings, secure devices, limit personal information, and verify unexpected messages before responding. These habits help NC State students, faculty, staff, and visitors reduce the risk of account misuse and online impersonation.</p>
+    </section>
+  </conbody>
+</concept>

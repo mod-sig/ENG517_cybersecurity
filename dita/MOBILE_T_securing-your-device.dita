@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="securing_your_mobile_device">
+  <title>Securing Your Mobile Device</title>
+  <shortdesc>Follow these steps to protect a smartphone or tablet used by NC State students, faculty, staff, and visitors from loss, unauthorized access, and common cybersecurity threats.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Mobile devices can provide access to email, university services, coursework, research, personal accounts, and sensitive information. Securing the device helps protect both the information stored on it and the accounts it can access.</p>
+      <p>These steps apply to personally owned devices and provide general guidance for university-managed devices. If NC State manages your device, follow university configuration requirements and contact your IT support team before changing management or security settings. Menu names and procedures vary by device model and operating-system version; consult the manufacturer's current instructions when needed.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Keep your device physically secure.</cmd>
+        <info>
+          <ul>
+            <li>Keep your phone or tablet with you in public and shared spaces.</li>
+            <li>Lock the device before leaving it unattended, even briefly.</li>
+            <li>Do not leave a device visible inside a parked vehicle; take it with you or secure it out of sight before arriving at your destination.</li>
+            <li>Use a protective case and consider recording identifying details in a secure place in case the device is lost.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Record the device's serial number and identifying information.</cmd>
+        <info>
+          <p>Find the device serial number in its settings or on the manufacturer's label or packaging. Some phones also have an International Mobile Equipment Identity (IMEI) number. Store the information securely, such as in a password manager, rather than posting it publicly. Keep proof of ownership where you can access it if the device is lost or stolen.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Set up a strong screen lock.</cmd>
+        <info>
+          <ul>
+            <li>Use a strong passcode or password that is difficult for someone else to guess.</li>
+            <li>Choose the longest practical passcode supported by the device; avoid birthdays, repeated digits, and obvious patterns.</li>
+            <li>Enable automatic screen locking after a short period of inactivity.</li>
+            <li>Use fingerprint or face recognition as a convenient additional unlock method when appropriate, while keeping a strong passcode or password as the device's fallback protection.</li>
+            <li>Do not display passwords or sensitive notification contents on the lock screen.</li>
+            <li>Manually lock the device whenever you put it down or leave it unattended.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Use strong passwords and protect your accounts.</cmd>
+        <info>
+          <p>Use unique, long passwords or passphrases for accounts accessed from your device. Do not reuse your NC State Unity password on other services, and never share your password or multifactor authentication codes. Enable multifactor authentication wherever it is available, including for university accounts as required.</p>
+          <p>NC State will not ask you to disclose your password in an unsolicited message. Treat unexpected requests for passwords or verification codes as suspicious.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Use trusted security software and built-in protections.</cmd>
+        <info>
+          <p>Keep the device's built-in security features enabled and use reputable anti-malware protection when appropriate for the device and operating system. Install applications only from trusted sources, such as the official app store or an approved university software source. On university-managed devices, use the security software and settings provided by NC State; do not install unapproved security tools or disable required protections.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Keep the operating system and applications up to date.</cmd>
+        <info>
+          <ul>
+            <li>Enable automatic operating-system and application updates when possible.</li>
+            <li>Install security updates promptly and restart the device when required to complete them.</li>
+            <li>Use operating-system versions that are still supported by the manufacturer.</li>
+            <li>Review application permissions when installing or updating apps, and grant only access that is necessary for the app's function.</li>
+            <li>Remove applications you no longer use, especially those that no longer receive updates.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Enable device-location and remote-lock features.</cmd>
+        <info>
+          <p>Set up the manufacturer's device-finding service before the device is lost. Confirm that the service can help you locate the device, make it play a sound, or lock it remotely. Learn how to access the service from another trusted device. If the device is lost or stolen and recovery is unlikely, consider using the service to erase it remotely, taking account of any university instructions or data-preservation requirements that apply.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Take action promptly if your device is lost, stolen, or compromised.</cmd>
+        <info>
+          <p>Use the device-finding service to locate or lock the device if possible. Change passwords for important accounts from a separate, trusted device, and review account sign-in activity. Contact your mobile carrier if cellular service or the SIM may be at risk. If the device contains NC State information, is university-managed, or may provide access to university accounts or systems, promptly follow current NC State procedures for reporting a lost, stolen, or compromised device.</p>
+        </info>
+      </step>
+    </steps>
+    <result>
+      <p>Your mobile device has stronger physical, account, software, and recovery protections. Review these settings periodically, particularly after major operating-system updates or changes to the accounts and information you access.</p>
+    </result>
+    <postreq>
+      <p>For detailed device-specific instructions, consult the current support information from the device manufacturer. For university-managed devices or incidents involving university information, follow current NC State IT guidance.</p>
+    </postreq>
+  </taskbody>
+</task>
