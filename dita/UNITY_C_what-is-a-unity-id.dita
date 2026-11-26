@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="UNITY_C_what-is-a-unity-id" audience="staff students">
+    <title>What is a Unity ID?</title>
+    <shortdesc>All students and staff are assigned a Unity ID, which grants access to various digital services such as email.</shortdesc>
+    <conbody>
+        <section id="composition">
+            <p>
+            Each student is assigned a Unity ID composed of letters (and sometimes numbers) up to eight characters long.
+            Usually, your Uniity ID is your first and middle initials followed by up to six letters from your last name, but if that has already been assigned to someone else, then the last characters may be substituted with numbers.
+            Your Unity ID is used to log into the MyPack Portal as well as into your NC State Gmail account.
+            </p>
+        </section>
+        <example>
+        George William Abernathy's Unity ID would be <b>gwabena</b>.
+        If someone has already been assigned <b>gwaberna</b> then George might be assigned <b>gwabern2</b>, <b>gwabern3</b>, and so on.
+        </example>
+        <section id="help">
+        If you need help with your Unity ID or password, contact the NC State Help Desk.
+        <note conref="conrefs.dita#reusable-conref-elements/help-desk-contact-info"/>
+        </section>
+    </conbody>
+</concept>
