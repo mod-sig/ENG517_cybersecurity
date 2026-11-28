@@ -7,7 +7,52 @@
   <shortdesc>Describes passkeys as a form of cryptography that increases
   online security without using a password.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://www.staysafeonline.org/articles/is-no-password-the-best-password-how-passkeys-work"
+    scope="external"/>
+  </prolog>
+
   <conbody>
-    <p/>
+    <section><title>What is a Passkey?</title><p>For many users, passkeys are
+    often easier than passwords. A passkey is a way to sign in to an account
+    without typing a password.</p> <p>Instead of relying only on something you
+    know, like a password, passkeys use something you have (your phone,
+    tablet, or computer), something you are (your fingerprint or face), or
+    something you know (your device PIN). Some examples of passkeys include
+    unlocking your phone with Face ID, tapping your fingerprint sensor, or
+    entering your device PIN.</p> <p>Under the hood, passkeys use <b>advanced
+    cryptography</b> to keep your account secure. When you create a passkey,
+    your device generates two digital keys:</p> <ol>
+        <li>A public key, which is stored by the website or app.</li>
+
+        <li>A private key, which stays securely on your device.</li>
+      </ol> <note>The private key never leaves your device. When you log in,
+    your device proves you’re really you by securely matching those keys
+    together.</note></section>
+
+    <section><title>Why are Passkeys Secure?</title> <p>Passkeys solve many of
+    the biggest problems with passwords:</p> <ul>
+        <li><b>There’s no password to steal:</b> A common phishing attack
+        tricks people into typing passwords into fake websites. But with
+        passkeys, there’s usually no password to type.</li>
+
+        <li><b>Your secret key stays on your device:</b> With passwords,
+        websites store information that can potentially be stolen in a data
+        breach. With passkeys, the sensitive private key stays on your
+        personal device instead of sitting on a server.</li>
+
+        <li><b>Biometrics for the win:</b> Even if someone steals your phone
+        or laptop, they still typically need your fingerprint or face scan to
+        use your passkey.</li>
+
+        <li><b>No more password reuse:</b> Password reuse remains one of the
+        biggest cybersecurity risks. If one account is breached, attackers
+        often try the same password on other accounts. Passkeys remove that
+        temptation because there’s no password to remember in the first
+        place.</li>
+      </ul></section>
   </conbody>
 </concept>

@@ -30,16 +30,45 @@
       </step>
 
       <step>
-        <cmd>In the Second Password field, select
-        <uicontrol>Push</uicontrol>.</cmd>
+        <cmd>Select <uicontrol>Login</uicontrol>.</cmd>
 
-        <stepresult>Select <uicontrol>OK</uicontrol>. <note>You will receive a
-        notification from the Duo app asking if you are attempting to sign
-        in.</note></stepresult>
+        <stepresult>The window in <b>Figure 1</b> will appear asking the user
+        to navigate to the Duo app to verify the push notification. <fig
+            id="fig_duo_popup">
+            <title>Figure 1: Duo Push Authentication Pop-Up</title>
+
+            <image href="images/Duo-pop-up.jpeg" placement="break"
+                   width="3.5in">
+              <alt>NC State Shibboleth login screen asking the user to check
+              for a Duo Push notification</alt>
+            </image>
+          </fig></stepresult>
+      </step>
+
+      <step>
+        <cmd>Navigate to the Duo app on your mobile device.</cmd>
+
+        <stepresult>The Duo app will ask the user if they are logging into
+        Shibboleth MFA as seen in <b>Figure 2</b>. <fig id="fig_duo_approve">
+            <title>Figure 2: Approval Screen in the Duo Mobile App</title>
+
+            <image height="3.5in" href="images/Duo-approve.jpeg"
+                   placement="break">
+              <alt>Duo Mobile app screen showing login request details with
+              Deny and Approve buttons</alt>
+            </image>
+          </fig></stepresult>
       </step>
 
       <step>
         <cmd>Select <uicontrol>Approve</uicontrol>.</cmd>
+
+        <info><note>Do not approve any Duo requests that were not made by you.
+        If you suspect someone is attempting to access your NC State account,
+        <xref format="dita"
+        href="REUSE_T_reporting-a-cybersecurity-incident.dita"
+        scope="local">report the incident</xref> to NC State's cybersecurity
+        team.</note></info>
       </step>
     </steps>
   </taskbody>

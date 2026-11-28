@@ -7,7 +7,51 @@
   <shortdesc>Describes Virtual Private Networks (VPNs) and their role in
   protecting your devices.</shortdesc>
 
+  <prolog>
+    <author>Faith Jezioranski-Davis</author>
+
+    <source format="html"
+    href="https://www.staysafeonline.org/articles/pull-the-shades-down-on-your-browsing-with-a-vpn"/>
+  </prolog>
+
   <conbody>
-    <p/>
+    <p>VPN stands for virtual private network. VPNs encrypt data from your
+    computers and devices to the internet by rerouting it to a private
+    computer server. This masks your location and hides your IP address from
+    websites. VPNs also reduce the risks of using public Wi-Fi by acting as an
+    encrypted middle-ground between your device and the internet router.</p>
+
+    <p>VPNs can be either <b>software</b> or <b>hardware</b>.</p>
+
+    <ul>
+      <li><b>Hardware VPNs</b> (sometimes called VPN routers or VPN firewalls)
+      are physical devices you connect to your computer. Because of their
+      expense, size, and technical requirements, hardware VPNs are more
+      commonly found in business settings.</li>
+
+      <li><b>Software VPNs</b> are apps or programs you install on your
+      device. Most people will opt for a software VPN for remote work or
+      personal use.</li>
+    </ul>
+
+    <p>Still, a VPN can create a very useful barrier between your device and
+    the internet connection. This becomes especially important if you are
+    traveling and connect to public Wi-Fi. Nowadays, a VPN alone cannot mask
+    your web activity from everyone – a VPN won't keep you anonymous if you
+    log into a website via your Google or Microsoft account, for example.</p>
+
+    <p>A VPN prevents your internet service provider (i.e., the company that
+    sells your internet access) from tracking your specific journey on the
+    internet, although they can still gather some data, like the fact that
+    you're connected to a VPN. Using a VPN is great from a privacy perspective
+    because ISPs have a history of handing your data over to others, like
+    selling it to marketers so they can target ads.</p>
+
+    <p>To summarize, using a quality VPN acts as another layer of security for
+    your digital life, especially if you ever use public or unsecured Wi-Fi
+    networks. However, remember that a VPN is not a cybersecurity silver
+    bullet that will replace antivirus programs, password managers, or
+    enabling <xref format="dita" href="MFA_C_what-is-MFA.dita"
+    scope="local">multi-factor authentication</xref>.</p>
   </conbody>
 </concept>
