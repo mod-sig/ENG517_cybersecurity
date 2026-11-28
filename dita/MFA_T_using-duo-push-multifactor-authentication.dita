@@ -35,7 +35,7 @@
         <stepresult>The window in <b>Figure 1</b> will appear asking the user
         to navigate to the Duo app to verify the push notification. <fig
             id="fig_duo_popup">
-            <title>Figure 1: Duo Push Authentication Pop-Up</title>
+            <title>Duo Push Authentication Pop-Up</title>
 
             <image href="images/Duo-pop-up.jpeg" placement="break"
                    width="3.5in">
@@ -50,9 +50,9 @@
 
         <stepresult>The Duo app will ask the user if they are logging into
         Shibboleth MFA as seen in <b>Figure 2</b>. <fig id="fig_duo_approve">
-            <title>Figure 2: Approval Screen in the Duo Mobile App</title>
+            <title>Approval Screen in the Duo Mobile App</title>
 
-            <image height="3.5in" href="images/Duo-approve.jpeg"
+            <image height="2.5in" href="images/Duo-approve.jpeg"
                    placement="break">
               <alt>Duo Mobile app screen showing login request details with
               Deny and Approve buttons</alt>
@@ -63,9 +63,9 @@
       <step>
         <cmd>Select <uicontrol>Approve</uicontrol>.</cmd>
 
-        <info><note>Do not approve any Duo requests that were not made by you.
-        If you suspect someone is attempting to access your NC State account,
-        <xref format="dita"
+        <info><note type="important">Do not approve any Duo requests that were
+        not made by you. If you suspect someone is attempting to access your
+        NC State account, <xref format="dita"
         href="REUSE_T_reporting-a-cybersecurity-incident.dita"
         scope="local">report the incident</xref> to NC State's cybersecurity
         team.</note></info>
